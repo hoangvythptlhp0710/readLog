@@ -1,0 +1,830 @@
+MonitorActionLog |2023-05-25 | 09:25:02 |  null | null | null | GET_VERSIONS | fb7372cd1e2a465b879dfe492380cc19 | Android | Successful | 0000 | 172.16.13.191 | 523
+MonitorActionLog |2023-05-25 | 09:25:03 |  null | null | null | GET_SECRET_KEY | 562ea1d34a5c4e00a771074998e65d3b | Android | SUCCESS | 0000 | 172.16.13.191 | 340
+MonitorActionLog |2023-05-25 | 09:25:04 |  0979018694 | 3 | 3030 | PHONE_CHECK | 5909fece414341fcb617a299895cf0bc | Android | Successful | 0000 | 172.16.13.191 | 229
+MonitorActionLog |2023-05-25 | 09:25:06 |  0979018694 | 3 | 3030 | LOGIN_BIOMETRIC | c7419dfbee1a4eda9a2f8a3451f1811a | Android | Successful | 0000 | 172.16.13.191 | 176
+MonitorActionLog |2023-05-25 | 09:25:07 |  0979018694 | 3 | 3030 | REG_FCM | 862827381f664a328997430ab7309fc0 | Android | Successful | 0000 | 172.16.13.191 | 69
+MonitorActionLog |2023-05-25 | 09:25:15 |  0979018694 | 3 | 3030 | GET_BALANCES | df8d0c33b34c43ab9a9ec429974ca28b | Android | Successful | 0000 | 172.16.13.191 | 137
+MonitorActionLog |2023-05-25 | 09:25:15 |  0979018694 | 3 | 3030 | GET_REMINDER | f6315f7340674f7e9f6dc18b7cbb4b07 | Android | Successful | 0000 | 172.16.13.191 | 107
+MonitorActionLog |2023-05-25 | 09:25:15 |  0979018694 | 3 | 3030 | GET_BANNER_LIST | 84bfd646764a4bf887f5f2d5729c55f9 | Android | Successful | 0000 | 172.16.13.191 | 148
+MonitorActionLog |2023-05-25 | 09:25:15 |  0979018694 | 3 | 3030 | GET_NEW_PROMOTION_NUMBER | 7a782974e0ab4b8eb412d548b7f819f7 | Android | Successful | 0000 | 172.16.13.191 | 93
+MonitorActionLog |2023-05-25 | 09:25:15 |  0979018694 | 3 | 3030 | GET_HOME_OBJECT | 842fdc2afa1e41499279627fa44b0cac | Android | Th�nh c�ng | 0000 | 172.16.13.191 | 140
+MonitorActionLog |2023-05-25 | 09:25:46 |  0979018694 | 3 | 3030 | GET_BALANCES | 10c383af168e4a64bcee97bb3ab9ac9b | Android | Successful | 0000 | 172.16.13.191 | 103
+MonitorActionLog |2023-05-25 | 09:25:46 |  0979018694 | 3 | 3030 | GET_USER_INFO | 197386ed43024fda878fee0ae7d58e9c | Android | Successful | 0000 | 172.16.13.191 | 87
+MonitorActionLog |2023-05-25 | 09:25:52 |  null | null | null | GET_VERSIONS | 3373741a734a40588b9df220648c5da7 | Android | Successful | 0000 | 172.16.13.191 | 52
+MonitorActionLog |2023-05-25 | 09:25:53 |  null | null | null | GET_SECRET_KEY | f1697db2138d429da4e474206ba8feaf | Android | SUCCESS | 0000 | 172.16.13.191 | 316
+MonitorActionLog |2023-05-25 | 09:25:53 |  0979018694 | 3 | 3030 | PHONE_CHECK | 0fac15eb8a7146f1874f05d731b9cbc6 | Android | Successful | 0000 | 172.16.13.191 | 87
+MonitorActionLog |2023-05-25 | 09:25:55 |  0979018694 | 3 | 3030 | LOGIN_BIOMETRIC | fc2f8698e7c44f30bad4181f850df9ec | Android | Successful | 0000 | 172.16.13.191 | 159
+MonitorActionLog |2023-05-25 | 09:25:55 |  0979018694 | 3 | 3030 | REG_FCM | 431d1ea56b1c4cd6b3fe6630fb05f2a2 | Android | Successful | 0000 | 172.16.13.191 | 68
+MonitorActionLog |2023-05-25 | 09:25:58 |  0979018694 | 3 | 3030 | GET_BALANCES | c361e4f6c984439c9be9b2633210df2a | Android | Successful | 0000 | 172.16.13.191 | 83
+MonitorActionLog |2023-05-25 | 09:25:58 |  0979018694 | 3 | 3030 | GET_BANNER_LIST | aab9db32605b4aa2907bc752688476fa | Android | Successful | 0000 | 172.16.13.191 | 121
+MonitorActionLog |2023-05-25 | 09:25:58 |  0979018694 | 3 | 3030 | GET_REMINDER | a0221db7fc62401ebb75bb2533b28f71 | Android | Successful | 0000 | 172.16.13.191 | 94
+MonitorActionLog |2023-05-25 | 09:25:58 |  0979018694 | 3 | 3030 | GET_NEW_PROMOTION_NUMBER | 3fbc56a2d9714e0f9a9600b94f9fe586 | Android | Successful | 0000 | 172.16.13.191 | 91
+MonitorActionLog |2023-05-25 | 09:25:58 |  0979018694 | 3 | 3030 | GET_HOME_OBJECT | 98e0cbc9745b435b95d77bda9c1a1c2c | Android | Th�nh c�ng | 0000 | 172.16.13.191 | 98
+MonitorActionLog |2023-05-25 | 09:26:59 |  0979018694 | 3 | 3030 | GET_REMINDER | 7d006e3949874460b510a437752a940d | Android | Successful | 0000 | 172.16.13.191 | 80
+MonitorActionLog |2023-05-25 | 09:26:59 |  0979018694 | 3 | 3030 | GET_BANNER_LIST | ab96d7139809440b9f976a0fd7cc3c4e | Android | Successful | 0000 | 172.16.13.191 | 184
+MonitorActionLog |2023-05-25 | 09:26:59 |  0979018694 | 3 | 3030 | GET_NEW_PROMOTION_NUMBER | 8f4d6f44498243938b02be3a5f77b757 | Android | Successful | 0000 | 172.16.13.191 | 94
+MonitorActionLog |2023-05-25 | 09:26:59 |  0979018694 | 3 | 3030 | GET_HOME_OBJECT | 6c4d853406694f3b9c73246c988c32a4 | Android | Th�nh c�ng | 0000 | 172.16.13.191 | 150
+MonitorActionLog |2023-05-25 | 09:26:59 |  0979018694 | 3 | 3030 | GET_BALANCES | 77ae206ff5ec49ab822525ab1713e4a3 | Android | Successful | 0000 | 172.16.13.191 | 105
+MonitorActionLog |2023-05-25 | 09:27:17 |  null | null | null | GET_VERSIONS | c3048bbe0a79456999ff97bf30a20e36 | Android | Successful | 0000 | 172.16.13.191 | 55
+MonitorActionLog |2023-05-25 | 09:27:18 |  null | null | null | GET_SECRET_KEY | 420dd05098654e0180a6d884502cf606 | Android | SUCCESS | 0000 | 172.16.13.191 | 334
+MonitorActionLog |2023-05-25 | 09:27:18 |  0979018694 | 3 | 3030 | PHONE_CHECK | 1d9328ad9e14416396ac8f69b37cc183 | Android | Successful | 0000 | 172.16.13.191 | 86
+MonitorActionLog |2023-05-25 | 09:27:19 |  0979018694 | 3 | 3030 | LOGIN_BIOMETRIC | 3da1b1407902412085551c3cbe4efe8b | Android | Successful | 0000 | 172.16.13.191 | 154
+MonitorActionLog |2023-05-25 | 09:27:20 |  0979018694 | 3 | 3030 | REG_FCM | dfee4272fb1a47e794cacea77660a4af | Android | Successful | 0000 | 172.16.13.191 | 57
+MonitorActionLog |2023-05-25 | 09:27:22 |  0979018694 | 3 | 3030 | GET_BALANCES | 3db22e5fef324e909124582427c83489 | Android | Successful | 0000 | 172.16.13.191 | 77
+MonitorActionLog |2023-05-25 | 09:27:22 |  0979018694 | 3 | 3030 | GET_BANNER_LIST | 55e8c5a983c045759a3be9003650aac2 | Android | Successful | 0000 | 172.16.13.191 | 112
+MonitorActionLog |2023-05-25 | 09:27:22 |  0979018694 | 3 | 3030 | GET_REMINDER | 02a533c3c27841eabcc19ccd778560e2 | Android | Successful | 0000 | 172.16.13.191 | 85
+MonitorActionLog |2023-05-25 | 09:27:22 |  0979018694 | 3 | 3030 | GET_NEW_PROMOTION_NUMBER | 68568f00730f4c17a7b88d42c9c33dc1 | Android | Successful | 0000 | 172.16.13.191 | 43
+MonitorActionLog |2023-05-25 | 09:27:22 |  0979018694 | 3 | 3030 | GET_HOME_OBJECT | ea11d7d504b640528a880afdc024acd6 | Android | Th�nh c�ng | 0000 | 172.16.13.191 | 113
+MonitorActionLog |2023-05-25 | 09:28:48 |  null | null | null | GET_VERSIONS | 4ab6d05e039e4cf0926ff66d633ff145 | Android | Successful | 0000 | 172.16.13.191 | 52
+MonitorActionLog |2023-05-25 | 09:28:49 |  null | null | null | GET_SECRET_KEY | de0ce393dabf4a748750249878d586ab | Android | SUCCESS | 0000 | 172.16.13.191 | 328
+MonitorActionLog |2023-05-25 | 09:28:49 |  0979018694 | 3 | 3030 | PHONE_CHECK | 869fb31b63654e5a801607e4cce174ce | Android | Successful | 0000 | 172.16.13.191 | 82
+MonitorActionLog |2023-05-25 | 09:28:51 |  0979018694 | 3 | 3030 | LOGIN_BIOMETRIC | f7c2f9eb734440a1b7f48f208507b46b | Android | Successful | 0000 | 172.16.13.191 | 147
+MonitorActionLog |2023-05-25 | 09:28:51 |  0979018694 | 3 | 3030 | REG_FCM | 736a0b6ae4fd4427a538c4add427e029 | Android | Successful | 0000 | 172.16.13.191 | 57
+MonitorActionLog |2023-05-25 | 09:29:12 |  0979018694 | 3 | 3030 | GET_BANNER_LIST | 85c185686cb04353abe6657c0e88dfa3 | Android | Successful | 0000 | 172.16.13.191 | 128
+MonitorActionLog |2023-05-25 | 09:29:12 |  0979018694 | 3 | 3030 | GET_REMINDER | 665d2620bac24c18acd6405447013349 | Android | Successful | 0000 | 172.16.13.191 | 102
+MonitorActionLog |2023-05-25 | 09:29:12 |  0979018694 | 3 | 3030 | GET_BALANCES | a6b6d5979c02493b92ca3a8de88432a8 | Android | Successful | 0000 | 172.16.13.191 | 86
+MonitorActionLog |2023-05-25 | 09:29:12 |  0979018694 | 3 | 3030 | GET_NEW_PROMOTION_NUMBER | e1b004259dfa493382598f7d1aee1416 | Android | Successful | 0000 | 172.16.13.191 | 52
+MonitorActionLog |2023-05-25 | 09:29:12 |  0979018694 | 3 | 3030 | GET_HOME_OBJECT | 1ac369184ac646fbb721cb5713054ccf | Android | Th�nh c�ng | 0000 | 172.16.13.191 | 105
+MonitorActionLog |2023-05-25 | 09:42:33 |  null | null | null | GET_VERSIONS | 75c5cf7c29bf42e09a6529df77dba49a | Android | Successful | 0000 | 172.16.13.60 | 47
+MonitorActionLog |2023-05-25 | 09:42:34 |  null | null | null | GET_SECRET_KEY | c72f31b6c336438cacbdc1c89eeccb5d | Android | SUCCESS | 0000 | 172.16.13.60 | 334
+MonitorActionLog |2023-05-25 | 09:42:40 |  null | null | null | PHONE_CHECK | 056dd95f66404cc7bf6b6a0e121941cc | Android | Successful | 0000 | 172.16.13.60 | 81
+MonitorActionLog |2023-05-25 | 09:42:43 |  null | null | null | LOGIN | 3a500a1f8e8d4adab16e2eb7a0c389a0 | Android | Sign in on a the new device | 7310 | 172.16.13.60 | 267
+MonitorActionLog |2023-05-25 | 09:42:46 |  null | null | null | OTP_VERIFY | 5ccdcb796d5343879885aab2a31dad29 | Android | OTP is successfully validated | 0000 | 172.16.13.60 | 129
+MonitorActionLog |2023-05-25 | 09:42:46 |  0971651512 | 3 | 2684 | GET_BALANCES | e16eaa61086a4c65b0195e8249799d4a | Android | Successful | 0000 | 172.16.13.60 | 79
+MonitorActionLog |2023-05-25 | 09:42:46 |  0971651512 | 3 | 2684 | GET_REMINDER | 8181ab3700c74e2d8378c54691c1bfaa | Android | Successful | 0000 | 172.16.13.60 | 64
+MonitorActionLog |2023-05-25 | 09:42:47 |  0971651512 | 3 | 2684 | GET_HOME_OBJECT | 2d8c3175035d49f1b8ff153d57df95c6 | Android | Th�nh c�ng | 0000 | 172.16.13.60 | 90
+MonitorActionLog |2023-05-25 | 09:42:47 |  0971651512 | 3 | 2684 | GET_BANNER_LIST | 0a40f8a571c74eedba0792c93ce0869a | Android | Successful | 0000 | 172.16.13.60 | 110
+MonitorActionLog |2023-05-25 | 09:42:47 |  0971651512 | 3 | 2684 | GET_NEW_PROMOTION_NUMBER | ea4454cacce447cb9164d3d2a836bd3b | Android | Successful | 0000 | 172.16.13.60 | 64
+MonitorActionLog |2023-05-25 | 09:42:47 |  0971651512 | 3 | 2684 | REG_FCM | 2f327d90533c413aa8bb943e7dfab64c | Android | Successful | 0000 | 172.16.13.60 | 76
+MonitorActionLog |2023-05-25 | 09:42:49 |  0971651512 | 3 | 2684 | GET_BALANCES | 873858fc48934fae83d5b33c948166e6 | Android | Successful | 0000 | 172.16.13.60 | 79
+MonitorActionLog |2023-05-25 | 09:42:49 |  0971651512 | 3 | 2684 | GET_USER_INFO | 86a6e15fce9f4a6eb0e6a467d81e37b8 | Android | Successful | 0000 | 172.16.13.60 | 77
+MonitorActionLog |2023-05-25 | 09:42:52 |  0971651512 | 3 | 2684 | GET_COMPANY_EVENT_LIST | 3745406c66b34002ab13e1568ebebc2a | Android | Successful | 0000 | 172.16.13.60 | 130
+MonitorActionLog |2023-05-25 | 09:42:53 |  0971651512 | 3 | 2684 | GET_BALANCES | 4b82953e155b44a0a5df7caf78d6bc80 | Android | Successful | 0000 | 172.16.13.60 | 82
+MonitorActionLog |2023-05-25 | 09:42:53 |  0971651512 | 3 | 2684 | GET_USER_INFO | 1c15bf421fc548c4b81b6081addbf509 | Android | Successful | 0000 | 172.16.13.60 | 88
+MonitorActionLog |2023-05-25 | 09:42:57 |  0971651512 | 3 | 2684 | GET_REMINDER | fc65be027345479e98d9bb820d56fabe | Android | Successful | 0000 | 172.16.13.60 | 68
+MonitorActionLog |2023-05-25 | 09:42:57 |  0971651512 | 3 | 2684 | GET_BALANCES | 461024ddba0d43cfa1ea0e8446e50bb0 | Android | Successful | 0000 | 172.16.13.60 | 77
+MonitorActionLog |2023-05-25 | 09:42:57 |  0971651512 | 3 | 2684 | GET_BANNER_LIST | d475e106762547c19e9a8e933af09430 | Android | Successful | 0000 | 172.16.13.60 | 108
+MonitorActionLog |2023-05-25 | 09:42:57 |  0971651512 | 3 | 2684 | GET_HOME_OBJECT | ee7cb9209a3a41db998755fbc3f6c6cc | Android | Th�nh c�ng | 0000 | 172.16.13.60 | 91
+MonitorActionLog |2023-05-25 | 09:42:57 |  0971651512 | 3 | 2684 | GET_NEW_PROMOTION_NUMBER | abda16d150c64222bd6b8ee84f29b47a | Android | Successful | 0000 | 172.16.13.60 | 52
+MonitorActionLog |2023-05-25 | 09:50:51 |  null | null | null | GET_SECRET_KEY | 93590977-E9D3-4AFF-869A-FEF8F5416357 | IOS | SUCCESS | 0000 | 172.16.13.160 | 334
+MonitorActionLog |2023-05-25 | 09:50:51 |  null | null | null | GET_VERSIONS | A11FE775-0379-488E-973C-1FDF96C72753 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 48
+MonitorActionLog |2023-05-25 | 09:50:52 |  null | null | null | PHONE_CHECK | BE40AB4C-B294-440A-8D23-882E89C38EB4 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 81
+MonitorActionLog |2023-05-25 | 09:52:26 |  null | null | null | LOGIN | F4206E4F-7958-4B78-80F7-1833590DCC1D | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 297
+MonitorActionLog |2023-05-25 | 09:52:26 |  0972730191 | 3 | 2883 | REG_FCM | 3DDC6A0F-1F06-4BE9-A7B6-0FB9DE086242 | IOS | Successful | 0000 | 172.16.13.160 | 64
+MonitorActionLog |2023-05-25 | 09:52:26 |  0972730191 | 3 | 2883 | GET_USER_INFO | 283CBFA1-F4FD-49EB-882D-AFDDAF72AEED | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 87
+MonitorActionLog |2023-05-25 | 09:52:28 |  0972730191 | 3 | 2883 | GET_REMINDER | 8061815B-5388-4913-83E8-032A043D304B | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 149
+MonitorActionLog |2023-05-25 | 09:52:28 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | 87B05088-3F25-4F01-AD8F-AB95B7820354 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 156
+MonitorActionLog |2023-05-25 | 09:52:28 |  0972730191 | 3 | 2883 | GET_BALANCES | 00A02FB2-DD8F-490C-AA32-23E4777C6C6A | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 159
+MonitorActionLog |2023-05-25 | 09:52:28 |  0972730191 | 3 | 2883 | GET_BANNER_LIST | EAEB79A8-D34F-4CC8-8628-A1B47B95E813 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 180
+MonitorActionLog |2023-05-25 | 09:52:28 |  0972730191 | 3 | 2883 | GET_HOME_OBJECT | 3590746D-2F9A-4223-8B0F-D2FE565C10F7 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 188
+MonitorActionLog |2023-05-25 | 09:52:29 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | CCA8A9A0-F0BC-4C2B-AE7A-EA668DD86EA8 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 97
+MonitorActionLog |2023-05-25 | 09:52:29 |  0972730191 | 3 | 2883 | GET_ADMIN_PIN_LIST | 69AB990F-FF02-4538-A027-112198E18F75 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 183
+MonitorActionLog |2023-05-25 | 09:52:30 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | E2D62617-0B08-48D4-B7D9-A3D379C3D79E | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 496
+MonitorActionLog |2023-05-25 | 09:52:30 |  0972730191 | 3 | 2883 | NEWSFEED | 9B07400B-CA44-458C-894A-4E42DC042ACB | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 440
+MonitorActionLog |2023-05-25 | 09:52:36 |  0972730191 | 3 | 2883 | MYPOST | 908535B5-C85F-466D-A400-22C069FA09AD | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 249
+MonitorActionLog |2023-05-25 | 09:52:37 |  0972730191 | 3 | 2883 | GET_LIST_SOCIAL | CA950D47-E95D-4053-95D4-F3765281686C | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 105
+MonitorActionLog |2023-05-25 | 09:52:37 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | 8C4FB6A4-AB9D-4B7E-8B41-B81E2F6CA3E0 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 112
+MonitorActionLog |2023-05-25 | 09:52:45 |  0972730191 | 3 | 2883 | SAVE_UNSAVE_POST | 5A9C3BCC-96A1-4673-AFA3-BC0032F3CBD9 | IOS | null | null | 172.16.13.160 | 12
+MonitorActionLog |2023-05-25 | 09:53:03 |  0972730191 | 3 | 2883 | SAVE_UNSAVE_POST | 04C7D3D2-9B5B-4B67-9416-CD028FB5765A | IOS | null | null | 172.16.13.160 | 11
+MonitorActionLog |2023-05-25 | 09:53:55 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | 8B779025-2EB2-4F01-B3C7-E16202898125 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 101
+MonitorActionLog |2023-05-25 | 09:53:55 |  0972730191 | 3 | 2883 | GET_POST_DETAIL | A288A975-FF04-489B-AE79-CC71FD05F5AB | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 173
+MonitorActionLog |2023-05-25 | 09:55:44 |  null | null | null | GET_SECRET_KEY | 14114D9B-6C60-40B5-9EE7-51F5088ADEF1 | IOS | SUCCESS | 0000 | 172.16.13.160 | 314
+MonitorActionLog |2023-05-25 | 09:55:45 |  null | null | null | GET_VERSIONS | A5F23DE7-22BC-4938-93E3-695EC9558564 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 48
+MonitorActionLog |2023-05-25 | 09:55:45 |  null | null | null | PHONE_CHECK | A6871B80-FB9D-40DD-89DF-EAC458D4924D | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 83
+MonitorActionLog |2023-05-25 | 09:55:49 |  null | null | null | LOGIN | 5A003600-822F-4635-A88A-7AECA4595B81 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 272
+MonitorActionLog |2023-05-25 | 09:55:50 |  0972730191 | 3 | 2883 | REG_FCM | 925AA5F9-FBD7-4101-9E0F-212075A1EC7F | IOS | Successful | 0000 | 172.16.13.160 | 65
+MonitorActionLog |2023-05-25 | 09:55:50 |  0972730191 | 3 | 2883 | GET_USER_INFO | 3697F6DB-20EB-43C3-8505-EDD76F2D92F6 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 79
+MonitorActionLog |2023-05-25 | 09:55:51 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | F2F01FE8-760E-4AC9-9E0E-0B1EDEDF0D93 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 140
+MonitorActionLog |2023-05-25 | 09:55:51 |  0972730191 | 3 | 2883 | GET_BALANCES | 1A03F3DC-A046-42AB-8723-D6A12DF91DF0 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 151
+MonitorActionLog |2023-05-25 | 09:55:51 |  0972730191 | 3 | 2883 | GET_REMINDER | 099A42A3-E4CD-4379-BE50-3217C26979BB | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 152
+MonitorActionLog |2023-05-25 | 09:55:51 |  0972730191 | 3 | 2883 | GET_BANNER_LIST | 70634897-ECC9-4A22-BD2C-B28BA76D31EC | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 178
+MonitorActionLog |2023-05-25 | 09:55:51 |  0972730191 | 3 | 2883 | GET_HOME_OBJECT | 9C2C07BE-FDBF-4FBB-A86C-89DFBFEDFD58 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 191
+MonitorActionLog |2023-05-25 | 09:55:53 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | D66237DB-4BA6-4414-9A56-08D8E27BBDF2 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 104
+MonitorActionLog |2023-05-25 | 09:55:53 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | 4B0E5183-5035-4606-BB1F-82758B23CA77 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 121
+MonitorActionLog |2023-05-25 | 09:55:53 |  0972730191 | 3 | 2883 | GET_ADMIN_PIN_LIST | 244B46D5-1F59-4472-9172-C8BAE83E600E | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 163
+MonitorActionLog |2023-05-25 | 09:55:54 |  0972730191 | 3 | 2883 | NEWSFEED | 91E0B40D-1CD1-4857-96D6-5424479A037E | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 389
+MonitorActionLog |2023-05-25 | 10:07:28 |  0971651512 | 3 | 2684 | GET_NEW_PROMOTION_NUMBER | 1ab4f45655e749b09ab883be1cbf2e84 | Android | Login session expires. Please login again | 7001 | 172.16.13.60 | 73
+MonitorActionLog |2023-05-25 | 10:07:28 |  0971651512 | 3 | 2684 | GET_BALANCES | de74b4282199400eadd5c26acc69bd2c | Android | Login session expires. Please login again | 7001 | 172.16.13.60 | 55
+MonitorActionLog |2023-05-25 | 10:07:28 |  0971651512 | 3 | 2684 | GET_BANNER_LIST | f9bc05894d644a9e9abb7273862d41c8 | Android | Login session expires. Please login again | 7001 | 172.16.13.60 | 50
+MonitorActionLog |2023-05-25 | 10:07:28 |  0971651512 | 3 | 2684 | GET_HOME_OBJECT | 8dbfcdee399e4bfd97db693143fca242 | Android | Login session expires. Please login again | 7001 | 172.16.13.60 | 54
+MonitorActionLog |2023-05-25 | 10:07:28 |  0971651512 | 3 | 2684 | GET_REMINDER | d36ddb688a734320a7772e9a370906bb | Android | Login session expires. Please login again | 7001 | 172.16.13.60 | 50
+MonitorActionLog |2023-05-25 | 10:21:05 |  null | null | null | GET_VERSIONS | d79bd076da09419d9c2f04fc62ea9155 | Android | Successful | 0000 | 172.16.13.191 | 49
+MonitorActionLog |2023-05-25 | 10:21:06 |  null | null | null | GET_SECRET_KEY | 07d2044bcfd840a3a1c370ec9d1a0050 | Android | SUCCESS | 0000 | 172.16.13.191 | 320
+MonitorActionLog |2023-05-25 | 10:21:07 |  0979018694 | 3 | 3030 | PHONE_CHECK | 832761ce1dce48018656ace46801313f | Android | Successful | 0000 | 172.16.13.191 | 87
+MonitorActionLog |2023-05-25 | 10:21:08 |  0979018694 | 3 | 3030 | LOGIN_BIOMETRIC | 61ee303f0a8d45b8a2b8f4c93866ae30 | Android | Successful | 0000 | 172.16.13.191 | 153
+MonitorActionLog |2023-05-25 | 10:21:08 |  0979018694 | 3 | 3030 | REG_FCM | 48c56fafd7974860be325043541a2758 | Android | Successful | 0000 | 172.16.13.191 | 109
+MonitorActionLog |2023-05-25 | 10:21:09 |  0979018694 | 3 | 3030 | GET_REMINDER | e9da6bc058a249f09ef897dfa076137d | Android | Successful | 0000 | 172.16.13.191 | 66
+MonitorActionLog |2023-05-25 | 10:21:09 |  0979018694 | 3 | 3030 | GET_BALANCES | d6bb42f01fac434cbf47045be1233a7c | Android | Successful | 0000 | 172.16.13.191 | 78
+MonitorActionLog |2023-05-25 | 10:21:09 |  0979018694 | 3 | 3030 | GET_BANNER_LIST | ed9b009b02ef488aa8d8edee99f0f83a | Android | Successful | 0000 | 172.16.13.191 | 123
+MonitorActionLog |2023-05-25 | 10:21:09 |  0979018694 | 3 | 3030 | GET_NEW_PROMOTION_NUMBER | e517c305c05448bfa968055fb146dbb2 | Android | Successful | 0000 | 172.16.13.191 | 77
+MonitorActionLog |2023-05-25 | 10:21:09 |  0979018694 | 3 | 3030 | GET_HOME_OBJECT | 1be6cda7a9d947089f7b98993c6c7267 | Android | Th�nh c�ng | 0000 | 172.16.13.191 | 137
+MonitorActionLog |2023-05-25 | 10:21:11 |  0979018694 | 3 | 3030 | GET_USER_INFO_NEW | afb724bb29b84c64ae9417b20a37628c | Android | Successful | 0000 | 172.16.13.191 | 99
+MonitorActionLog |2023-05-25 | 10:21:11 |  0979018694 | 3 | 3030 | GET_ADMIN_PIN_LIST | f97a9974bdf44892aa7d1c9b3d5eb278 | Android | Successful | 0000 | 172.16.13.191 | 172
+MonitorActionLog |2023-05-25 | 10:21:12 |  0979018694 | 3 | 3030 | NEWSFEED | ab3a6950509d4506b99c8b3ba29ab0dc | Android | Successful | 0000 | 172.16.13.191 | 375
+MonitorActionLog |2023-05-25 | 10:21:15 |  0979018694 | 3 | 3030 | GET_COMMENTS | 1bfb9034f16249b2823bca2cce5b3b60 | Android | Successful | 0000 | 172.16.13.191 | 178
+MonitorActionLog |2023-05-25 | 10:21:15 |  0979018694 | 3 | 3030 | GET_POST_DETAIL | b68402b8abeb43e9ba9a1e29c9c5a5ee | Android | Successful | 0000 | 172.16.13.191 | 163
+MonitorActionLog |2023-05-25 | 10:21:18 |  0979018694 | 3 | 3030 | COMMENT | a8b537fdd90c4874b3e0a6f833318e9c | Android | Successful | 0000 | 172.16.13.191 | 198
+MonitorActionLog |2023-05-25 | 10:21:20 |  0979018694 | 3 | 3030 | GET_COMMENTS | bf12cf44461b4b029f251473ab95462d | Android | Successful | 0000 | 172.16.13.191 | 97
+MonitorActionLog |2023-05-25 | 10:22:49 |  null | null | null | GET_SECRET_KEY | 63574CE7-8B2A-42EC-B038-FD05F3933962 | IOS | SUCCESS | 0000 | 172.16.13.160 | 316
+MonitorActionLog |2023-05-25 | 10:22:49 |  null | null | null | GET_VERSIONS | C9107FF6-B71F-4D43-BF7A-F34853C86B12 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 48
+MonitorActionLog |2023-05-25 | 10:22:49 |  null | null | null | PHONE_CHECK | 68C7C62E-1B8E-4CEA-8BCC-EB701EE758B9 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 85
+MonitorActionLog |2023-05-25 | 10:23:07 |  null | null | null | LOGIN | 794D2CC6-C8E5-4ACF-8768-CE3B2C8244F9 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 279
+MonitorActionLog |2023-05-25 | 10:23:08 |  0972730191 | 3 | 2883 | GET_USER_INFO | 0DFA7F15-8FE1-4F66-91BE-DFE48466B526 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 98
+MonitorActionLog |2023-05-25 | 10:23:08 |  0972730191 | 3 | 2883 | REG_FCM | 696754B3-30F6-45A5-8BAA-4BEC514D9706 | IOS | Successful | 0000 | 172.16.13.160 | 159
+MonitorActionLog |2023-05-25 | 10:23:10 |  0972730191 | 3 | 2883 | GET_REMINDER | 4CF0AFB5-0FB8-4F51-BAE7-478F298B56F1 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 133
+MonitorActionLog |2023-05-25 | 10:23:10 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | 1C2D2624-9F59-4C23-A4BB-4B88C13E230B | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 154
+MonitorActionLog |2023-05-25 | 10:23:10 |  0972730191 | 3 | 2883 | GET_BALANCES | AB7A61E5-D70F-414A-93AC-F94E73131690 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 169
+MonitorActionLog |2023-05-25 | 10:23:10 |  0972730191 | 3 | 2883 | GET_BANNER_LIST | BF2BD11A-F159-4E84-8683-E5DF2160F133 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 180
+MonitorActionLog |2023-05-25 | 10:23:10 |  0972730191 | 3 | 2883 | GET_HOME_OBJECT | 4BFDC47A-0DDE-4F5E-83E1-DD8EAFF1D477 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 187
+MonitorActionLog |2023-05-25 | 10:23:11 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | 0AF7F612-D400-4521-A637-55915E5E9F95 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 112
+MonitorActionLog |2023-05-25 | 10:23:11 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | 7EE99F79-1B8C-4A6B-ABEF-AE47AABC179C | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 110
+MonitorActionLog |2023-05-25 | 10:23:12 |  0972730191 | 3 | 2883 | GET_ADMIN_PIN_LIST | 7304803E-CB84-476B-A9A8-4C08613C344B | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 154
+MonitorActionLog |2023-05-25 | 10:23:12 |  0972730191 | 3 | 2883 | NEWSFEED | FB930380-BDD8-4F5E-A644-8596D9F18502 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 372
+MonitorActionLog |2023-05-25 | 10:23:54 |  0972730191 | 3 | 2883 | MYPOST | E67AC027-E9FF-4F53-8FA4-B09223CEFCDE | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 278
+MonitorActionLog |2023-05-25 | 10:37:58 |  0979018694 | 3 | 3030 | GET_COMMENTS | 7d99959cf58d45758ca295ae3127fe0a | Android | Successful | 0000 | 172.16.13.191 | 164
+MonitorActionLog |2023-05-25 | 10:39:35 |  null | null | null | GET_SECRET_KEY | BCF28926-A048-461E-806C-01D040FFC750 | IOS | SUCCESS | 0000 | 172.16.13.203 | 323
+MonitorActionLog |2023-05-25 | 10:39:36 |  null | null | null | GET_VERSIONS | FB788F26-B8F1-4060-B1EF-D0C059BBCBC6 | IOS | Successful | 0000 | 172.16.13.203 | 50
+MonitorActionLog |2023-05-25 | 10:39:36 |  null | null | null | PHONE_CHECK | A435D6EA-07CB-4D14-8C46-F3CB033219EE | IOS | Successful | 0000 | 172.16.13.203 | 82
+MonitorActionLog |2023-05-25 | 10:49:03 |  null | null | null | GET_VERSIONS | 7787e9a1c99a41a68c13bbf83cb15283 | Android | Successful | 0000 | 172.16.13.60 | 56
+MonitorActionLog |2023-05-25 | 10:49:04 |  null | null | null | GET_SECRET_KEY | 2181fcd801414e6c8ab98cfc68636c88 | Android | SUCCESS | 0000 | 172.16.13.60 | 321
+MonitorActionLog |2023-05-25 | 10:49:05 |  0971651512 | 3 | 2684 | PHONE_CHECK | 82be729fe83f463d99476303dcd2a003 | Android | Sorry, your phone number is not supported | 7303 | 172.16.13.60 | 107
+MonitorActionLog |2023-05-25 | 10:49:08 |  0971651512 | 3 | 2684 | OTP_VERIFY | f70f560ac72345309451b20265a40f3f | Android | OTP is successfully validated | 0000 | 172.16.13.60 | 83
+MonitorActionLog |2023-05-25 | 10:49:18 |  0971651512 | 3 | 2684 | REGISTER | 31b6925f0cf643cc85a21f9da14834b9 | Android | ERROR | 1111 | 172.16.13.60 | 429
+MonitorActionLog |2023-05-25 | 10:49:28 |  0971651512 | 3 | 2684 | REGISTER | e8ef8216394f4f52bed9cfdf8c125e71 | Android | OTP already be sent, please try again after 2 minutes  | 7306 | 172.16.13.60 | 85
+MonitorActionLog |2023-05-25 | 10:49:39 |  0971651512 | 3 | 2684 | PHONE_CHECK | fbfdf365ab044f3fbba8d4d856b73e0a | Android | OTP already be sent, please try again after 2 minutes  | 7306 | 172.16.13.60 | 87
+MonitorActionLog |2023-05-25 | 10:50:42 |  null | null | null | GET_VERSIONS | 7272c34dff1a48929d1ecec9fe1f5b38 | Android | Successful | 0000 | 172.16.13.191 | 55
+MonitorActionLog |2023-05-25 | 10:50:43 |  null | null | null | GET_SECRET_KEY | 01fdfc8403c9417292500e0636453f9e | Android | SUCCESS | 0000 | 172.16.13.191 | 313
+MonitorActionLog |2023-05-25 | 10:50:43 |  0979018694 | 3 | 3030 | PHONE_CHECK | 489e97e00b1d46d6b04adbfae3e873de | Android | Successful | 0000 | 172.16.13.191 | 82
+MonitorActionLog |2023-05-25 | 10:50:45 |  0979018694 | 3 | 3030 | LOGIN_BIOMETRIC | a0d17c6432ca4fa6b29f5dc14e26a934 | Android | Successful | 0000 | 172.16.13.191 | 163
+MonitorActionLog |2023-05-25 | 10:50:46 |  0979018694 | 3 | 3030 | REG_FCM | 1102940d765f482d9505594e10c8c764 | Android | Successful | 0000 | 172.16.13.191 | 62
+MonitorActionLog |2023-05-25 | 10:50:47 |  0979018694 | 3 | 3030 | GET_REMINDER | 97639b4ba8634f72923e690c17c0711a | Android | Successful | 0000 | 172.16.13.191 | 67
+MonitorActionLog |2023-05-25 | 10:50:47 |  0979018694 | 3 | 3030 | GET_BALANCES | f4c5ac9bc922497bac4f4dbe1ee0d5ad | Android | Successful | 0000 | 172.16.13.191 | 82
+MonitorActionLog |2023-05-25 | 10:50:47 |  0979018694 | 3 | 3030 | GET_BANNER_LIST | 7fce2ab55b174719a06b1e1b37f99cc0 | Android | Successful | 0000 | 172.16.13.191 | 109
+MonitorActionLog |2023-05-25 | 10:50:47 |  0979018694 | 3 | 3030 | GET_NEW_PROMOTION_NUMBER | a6a2f4d2b04f430aa9aba84a0a11a05f | Android | Successful | 0000 | 172.16.13.191 | 65
+MonitorActionLog |2023-05-25 | 10:50:47 |  0979018694 | 3 | 3030 | GET_HOME_OBJECT | 9ac32dc3264e4c209d0b38c14f6d2dd0 | Android | Th�nh c�ng | 0000 | 172.16.13.191 | 142
+MonitorActionLog |2023-05-25 | 10:50:48 |  0979018694 | 3 | 3030 | GET_USER_INFO_NEW | b6aeb29862db4da4b6fc302bf3296b87 | Android | Successful | 0000 | 172.16.13.191 | 121
+MonitorActionLog |2023-05-25 | 10:50:50 |  0979018694 | 3 | 3030 | GET_ADMIN_PIN_LIST | b2cff6350aed4b1b87bea3439ed42301 | Android | Successful | 0000 | 172.16.13.191 | 1098
+MonitorActionLog |2023-05-25 | 10:50:50 |  0979018694 | 3 | 3030 | NEWSFEED | a1073c95987d44d99b8bf6ceb2cc34d6 | Android | Successful | 0000 | 172.16.13.191 | 1314
+MonitorActionLog |2023-05-25 | 10:56:15 |  0972730191 | 3 | 2883 | GET_LIST_SOCIAL | 964C2AB7-3592-4DAA-A06D-EB74B0469EDD | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 109
+MonitorActionLog |2023-05-25 | 10:56:15 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | 5DBF6E72-E315-44B0-B900-D7DDD0078E70 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 125
+MonitorActionLog |2023-05-25 | 10:56:20 |  0972730191 | 3 | 2883 | GET_LIST_SOCIAL | 116A41FD-6D8D-4E11-9F2A-758B2B98B048 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 114
+MonitorActionLog |2023-05-25 | 10:56:20 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | E3B6A322-8420-42FE-80D5-835D9A8D77C7 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 120
+MonitorActionLog |2023-05-25 | 10:56:24 |  0972730191 | 3 | 2883 | GET_LIST_POST_FILTER | 04710C74-5603-4614-9746-49CAB9B8031E | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 523
+MonitorActionLog |2023-05-25 | 10:56:46 |  0972730191 | 3 | 2883 | GET_LIST_POST_FILTER | 1C7042C2-29E6-4450-938B-1FD1D92E9169 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 150
+MonitorActionLog |2023-05-25 | 10:56:48 |  0972730191 | 3 | 2883 | GET_LIST_POST_FILTER | 06A3671F-8DAE-4D7C-BBE8-C29831EF3897 | IOS | ?� x?y ra l?i trong qu� tr�nh x? l� | 1004 | 172.16.13.160 | 170
+MonitorActionLog |2023-05-25 | 10:56:51 |  0972730191 | 3 | 2883 | GET_LIST_POST_FILTER | 8C31225C-B778-40C8-828F-EC66B6CDF117 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 97
+MonitorActionLog |2023-05-25 | 10:56:54 |  0972730191 | 3 | 2883 | GET_LIST_POST_FILTER | C8A79F46-D9D7-4A6F-B8B3-A81E3B06F5CD | IOS | ?� x?y ra l?i trong qu� tr�nh x? l� | 1004 | 172.16.13.160 | 97
+MonitorActionLog |2023-05-25 | 10:57:01 |  0972730191 | 3 | 2883 | GET_LIST_SOCIAL | 74473F7E-BCFD-4B35-9245-4F4227DBD4C0 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 102
+MonitorActionLog |2023-05-25 | 10:57:01 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | E64FCDB2-DA37-4A70-A51F-741354BED49E | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 111
+MonitorActionLog |2023-05-25 | 11:07:10 |  null | null | null | GET_VERSIONS | c3b847604dc04b348974c09297b466a8 | Android | Successful | 0000 | 10.0.2.15 | 55
+MonitorActionLog |2023-05-25 | 11:07:11 |  null | null | null | GET_SECRET_KEY | 14014d024b4949dfbc6903c138386f46 | Android | SUCCESS | 0000 | 10.0.2.15 | 320
+MonitorActionLog |2023-05-25 | 11:07:11 |  0982941149 | 3 | 3095 | PHONE_CHECK | 6877a2a8391f44abb3c246572a7604fa | Android | Successful | 0000 | 10.0.2.15 | 78
+MonitorActionLog |2023-05-25 | 11:07:25 |  0972730191 | 3 | 2883 | GET_COMPANY_POST | 3EAE14C5-93AA-463E-B942-10286067C3FB | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 326
+MonitorActionLog |2023-05-25 | 11:07:28 |  0972730191 | 3 | 2883 | MYPOST | BB8F630E-C2A9-431B-B2E0-604C38F5878E | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 337
+MonitorActionLog |2023-05-25 | 11:07:30 |  0972730191 | 3 | 2883 | GET_COMPANY_POST | 418CF730-94AA-48CF-A6B5-629FA782542D | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 275
+MonitorActionLog |2023-05-25 | 11:07:32 |  null | null | null | GET_VERSIONS | 1515c22dadad4bfd82a5803f0ce286f9 | Android | Successful | 0000 | 10.0.2.15 | 49
+MonitorActionLog |2023-05-25 | 11:07:32 |  null | null | null | GET_SECRET_KEY | 1fd34495760d450c84e5e2cf46a1472a | Android | SUCCESS | 0000 | 10.0.2.15 | 313
+MonitorActionLog |2023-05-25 | 11:07:33 |  0982941149 | 3 | 3095 | PHONE_CHECK | 486ec291784a44ff83ff9797e03bed8d | Android | Successful | 0000 | 10.0.2.15 | 76
+MonitorActionLog |2023-05-25 | 11:07:33 |  0972730191 | 3 | 2883 | MYPOST | 637F5F57-9D1B-4C9E-AF4D-2ADE80B519BC | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 317
+MonitorActionLog |2023-05-25 | 11:07:35 |  0982941149 | 3 | 3095 | LOGIN | 188ce5c05a334eeca6534f30d48b0726 | Android | Successful | 0000 | 10.0.2.15 | 263
+MonitorActionLog |2023-05-25 | 11:07:35 |  0982941149 | 3 | 3095 | REG_FCM | cc91cc7c02344baab4b2df0f8d515afd | Android | Successful | 0000 | 10.0.2.15 | 58
+MonitorActionLog |2023-05-25 | 11:07:37 |  0982941149 | 3 | 3095 | GET_BALANCES | aaabc940f0ef457498e374f0be79160d | Android | Successful | 0000 | 10.0.2.15 | 108
+MonitorActionLog |2023-05-25 | 11:07:37 |  0982941149 | 3 | 3095 | GET_REMINDER | 9e746e937fe248b8b2c82093b093235c | Android | Successful | 0000 | 10.0.2.15 | 67
+MonitorActionLog |2023-05-25 | 11:07:37 |  0982941149 | 3 | 3095 | GET_BANNER_LIST | 9d5460a91fd44bd4b19f2b67b95d1b92 | Android | Successful | 0000 | 10.0.2.15 | 108
+MonitorActionLog |2023-05-25 | 11:07:37 |  0982941149 | 3 | 3095 | GET_NEW_PROMOTION_NUMBER | aaa2051b464a4f5abc8a56e1ebf8a295 | Android | Successful | 0000 | 10.0.2.15 | 57
+MonitorActionLog |2023-05-25 | 11:07:37 |  0982941149 | 3 | 3095 | GET_HOME_OBJECT | a0331c609678483494033d72ea36ef21 | Android | Th�nh c�ng | 0000 | 10.0.2.15 | 103
+MonitorActionLog |2023-05-25 | 11:07:37 |  0972730191 | 3 | 2883 | GET_COMPANY_POST | A3B05710-4D9A-4B30-B6E3-8918CFC13CB1 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 269
+MonitorActionLog |2023-05-25 | 11:07:39 |  0982941149 | 3 | 3095 | GET_MERCHANT_DEMO_URL | 112c3fad1b4b4b1eb0c99c77e7475926 | Android | null | 1111 | 10.0.2.15 | 1039
+MonitorActionLog |2023-05-25 | 11:08:02 |  0972730191 | 3 | 2883 | GET_LIST_SOCIAL | 37CBBC63-230E-4C3A-9500-3D451F4C4842 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 94
+MonitorActionLog |2023-05-25 | 11:08:02 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | 43A6A9A7-187F-4122-8928-6B14BC586696 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 107
+MonitorActionLog |2023-05-25 | 11:08:08 |  0972730191 | 3 | 2883 | MYPOST | BC4ABA0A-E4B0-4373-A063-2244574D2121 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 298
+MonitorActionLog |2023-05-25 | 11:08:17 |  null | null | null | GET_VERSIONS | 88400374cfde4d60bc5b94af5fe4ca94 | Android | Successful | 0000 | 10.0.2.15 | 46
+MonitorActionLog |2023-05-25 | 11:08:17 |  null | null | null | GET_SECRET_KEY | 24a92b0535c24c059db63e7f949fbd4d | Android | SUCCESS | 0000 | 10.0.2.15 | 321
+MonitorActionLog |2023-05-25 | 11:08:23 |  null | null | null | PHONE_CHECK | 2a4858012bc248a98b9fd3202e7fa109 | Android | Successful | 0000 | 10.0.2.15 | 75
+MonitorActionLog |2023-05-25 | 11:08:26 |  null | null | null | LOGIN | b3e6bf4ddc3445f1a4205dbd1cc1bb32 | Android | Successful | 0000 | 10.0.2.15 | 272
+MonitorActionLog |2023-05-25 | 11:08:27 |  0982941149 | 3 | 3095 | GET_BALANCES | 495e3724312e4ea2863d5a62b09b1263 | Android | Successful | 0000 | 10.0.2.15 | 86
+MonitorActionLog |2023-05-25 | 11:08:27 |  0982941149 | 3 | 3095 | GET_REMINDER | 1ec6c52ed3754be883793ceba27a768c | Android | Successful | 0000 | 10.0.2.15 | 67
+MonitorActionLog |2023-05-25 | 11:08:27 |  0982941149 | 3 | 3095 | GET_BANNER_LIST | 7baa31191715423b875906bf4bb0d56d | Android | Successful | 0000 | 10.0.2.15 | 113
+MonitorActionLog |2023-05-25 | 11:08:27 |  0982941149 | 3 | 3095 | GET_HOME_OBJECT | 8e1b3ceb6ba64f129037b36227765f6c | Android | Th�nh c�ng | 0000 | 10.0.2.15 | 99
+MonitorActionLog |2023-05-25 | 11:08:27 |  0982941149 | 3 | 3095 | GET_NEW_PROMOTION_NUMBER | 45f79be5a5614cce864ea698c0c0c305 | Android | Successful | 0000 | 10.0.2.15 | 64
+MonitorActionLog |2023-05-25 | 11:08:27 |  0982941149 | 3 | 3095 | REG_FCM | bdd0287a7cb1474abfa93e23bc74fb9f | Android | Successful | 0000 | 10.0.2.15 | 65
+MonitorActionLog |2023-05-25 | 11:08:32 |  0982941149 | 3 | 3095 | GET_BALANCES | 5268fa6f853848ee94d3e8ecce63991b | Android | Successful | 0000 | 10.0.2.15 | 93
+MonitorActionLog |2023-05-25 | 11:08:32 |  0982941149 | 3 | 3095 | GET_USER_INFO | 26a46558bea548f1b2c48f350926d5a8 | Android | Successful | 0000 | 10.0.2.15 | 84
+MonitorActionLog |2023-05-25 | 11:08:33 |  0982941149 | 3 | 3095 | GET_BALANCES | a46ba825e0de4cc98ee0d79027d2063e | Android | Successful | 0000 | 10.0.2.15 | 75
+MonitorActionLog |2023-05-25 | 11:08:33 |  0982941149 | 3 | 3095 | GET_REMINDER | 50ed7f80e3034483ad9cc2975b01688a | Android | Successful | 0000 | 10.0.2.15 | 70
+MonitorActionLog |2023-05-25 | 11:08:33 |  0982941149 | 3 | 3095 | GET_BANNER_LIST | 56d73bf911b540f78b892f3d43843169 | Android | Successful | 0000 | 10.0.2.15 | 118
+MonitorActionLog |2023-05-25 | 11:08:33 |  0982941149 | 3 | 3095 | GET_HOME_OBJECT | 90143983e2b340c3ad2d614bd6f5125a | Android | Th�nh c�ng | 0000 | 10.0.2.15 | 110
+MonitorActionLog |2023-05-25 | 11:08:34 |  0982941149 | 3 | 3095 | GET_NEW_PROMOTION_NUMBER | 4340cc6c51734a068397fd017c450e96 | Android | Successful | 0000 | 10.0.2.15 | 248
+MonitorActionLog |2023-05-25 | 11:08:38 |  0982941149 | 3 | 3095 | GET_BALANCES | e413603574024950a0b4f0539d48a506 | Android | Successful | 0000 | 10.0.2.15 | 75
+MonitorActionLog |2023-05-25 | 11:08:38 |  0982941149 | 3 | 3095 | GET_USER_INFO | eb9356db513242d18704a0d1e840cf29 | Android | Successful | 0000 | 10.0.2.15 | 77
+MonitorActionLog |2023-05-25 | 11:08:41 |  0982941149 | 3 | 3095 | GET_USER_INFO | 1f30afabd0c74cd98d50c7d116cdb3f5 | Android | Successful | 0000 | 10.0.2.15 | 83
+MonitorActionLog |2023-05-25 | 11:08:49 |  0982941149 | 3 | 3095 | GET_BALANCES | c2e5484ece16419483e31c632af2f4e9 | Android | Successful | 0000 | 10.0.2.15 | 82
+MonitorActionLog |2023-05-25 | 11:08:49 |  0982941149 | 3 | 3095 | GET_USER_INFO | 089e25ee3520423782a36d5baa782080 | Android | Successful | 0000 | 10.0.2.15 | 77
+MonitorActionLog |2023-05-25 | 11:09:06 |  0982941149 | 3 | 3095 | GET_USER_INFO | d9279f67ee1f4876b32bbe15834e4415 | Android | Successful | 0000 | 10.0.2.15 | 80
+MonitorActionLog |2023-05-25 | 11:09:11 |  0982941149 | 3 | 3095 | GET_BALANCES | 7b14f0d55ee449c49051810bd3d57de6 | Android | Successful | 0000 | 10.0.2.15 | 83
+MonitorActionLog |2023-05-25 | 11:09:11 |  0982941149 | 3 | 3095 | GET_USER_INFO | 02e433b3e65f4e27b69ae8a1489fdd2e | Android | Successful | 0000 | 10.0.2.15 | 83
+MonitorActionLog |2023-05-25 | 11:09:13 |  0982941149 | 3 | 3095 | GET_BALANCES | 74f800e2fa074aeb9b49a1e679e775e2 | Android | Successful | 0000 | 10.0.2.15 | 82
+MonitorActionLog |2023-05-25 | 11:09:13 |  0982941149 | 3 | 3095 | GET_REMINDER | 4ebafaa0bf9e45c6bdb662268c7198fb | Android | Successful | 0000 | 10.0.2.15 | 75
+MonitorActionLog |2023-05-25 | 11:09:13 |  0982941149 | 3 | 3095 | GET_BANNER_LIST | c1901f5a16ce4ecab4f35479d045ec27 | Android | Successful | 0000 | 10.0.2.15 | 108
+MonitorActionLog |2023-05-25 | 11:09:13 |  0982941149 | 3 | 3095 | GET_HOME_OBJECT | 3770e709083740208d0a336ae69820ed | Android | Th�nh c�ng | 0000 | 10.0.2.15 | 91
+MonitorActionLog |2023-05-25 | 11:09:13 |  0982941149 | 3 | 3095 | GET_NEW_PROMOTION_NUMBER | 6470355e658344229d17a573dedde0b3 | Android | Successful | 0000 | 10.0.2.15 | 58
+MonitorActionLog |2023-05-25 | 11:09:30 |  0982941149 | 3 | 3095 | GET_USER_INFO | 4cad0f1811c54fd69201d0a0cb995cc8 | Android | Successful | 0000 | 10.0.2.15 | 78
+MonitorActionLog |2023-05-25 | 11:09:34 |  0982941149 | 3 | 3095 | GET_BALANCES | 6a4dfb2c86c943dfae67f5fbdea01c45 | Android | Successful | 0000 | 10.0.2.15 | 80
+MonitorActionLog |2023-05-25 | 11:09:34 |  0982941149 | 3 | 3095 | GET_REMINDER | 178fcc41b5ab4e69a13c34e5a40183b3 | Android | Successful | 0000 | 10.0.2.15 | 71
+MonitorActionLog |2023-05-25 | 11:09:34 |  0982941149 | 3 | 3095 | GET_BANNER_LIST | 06b27d0d9f4341de8ff4df832b9f9444 | Android | Successful | 0000 | 10.0.2.15 | 111
+MonitorActionLog |2023-05-25 | 11:09:34 |  0982941149 | 3 | 3095 | GET_HOME_OBJECT | a78e9fa3527f42e8b089d5be0cc45d25 | Android | Th�nh c�ng | 0000 | 10.0.2.15 | 92
+MonitorActionLog |2023-05-25 | 11:09:34 |  0982941149 | 3 | 3095 | GET_NEW_PROMOTION_NUMBER | d5d0e93be58b4994854a823cc142922a | Android | Successful | 0000 | 10.0.2.15 | 62
+MonitorActionLog |2023-05-25 | 11:09:59 |  0982941149 | 3 | 3095 | GET_BALANCES | 83d092845a8b4a6b909d3d8dd926ded0 | Android | Successful | 0000 | 10.0.2.15 | 94
+MonitorActionLog |2023-05-25 | 11:09:59 |  0982941149 | 3 | 3095 | GET_REMINDER | df23dcf8dd4747ddb7c234fb7a22fa50 | Android | Successful | 0000 | 10.0.2.15 | 110
+MonitorActionLog |2023-05-25 | 11:09:59 |  0982941149 | 3 | 3095 | GET_BANNER_LIST | 2ce3cff2c87b4de69ad95c112ef737f5 | Android | Successful | 0000 | 10.0.2.15 | 112
+MonitorActionLog |2023-05-25 | 11:09:59 |  0982941149 | 3 | 3095 | GET_NEW_PROMOTION_NUMBER | f6a90f7ad97747a8ba30c4b511005ba3 | Android | Successful | 0000 | 10.0.2.15 | 72
+MonitorActionLog |2023-05-25 | 11:09:59 |  0982941149 | 3 | 3095 | GET_HOME_OBJECT | 3d76c5c93e3e4c4d86165b29fb8105b7 | Android | Th�nh c�ng | 0000 | 10.0.2.15 | 99
+MonitorActionLog |2023-05-25 | 11:10:52 |  0972730191 | 3 | 2883 | MYPOST | ED4DF818-77E8-4C20-961A-E03A4B182105 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 307
+MonitorActionLog |2023-05-25 | 11:12:02 |  0972730191 | 3 | 2883 | GET_COMPANY_POST | 1D98FC96-6C76-47C2-B4F1-75699761F7D3 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 264
+MonitorActionLog |2023-05-25 | 11:12:30 |  0972730191 | 3 | 2883 | MYPOST | B0438186-0511-453A-92FB-A94DAED07DF6 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 281
+MonitorActionLog |2023-05-25 | 11:12:38 |  0982941149 | 3 | 3095 | GET_REMINDER | d3d3361f5fd14db2a65405157f841c24 | Android | Successful | 0000 | 10.0.2.15 | 66
+MonitorActionLog |2023-05-25 | 11:12:38 |  0982941149 | 3 | 3095 | GET_BANNER_LIST | 44f14594e55046a3b1d78ec4a4569ee6 | Android | Successful | 0000 | 10.0.2.15 | 126
+MonitorActionLog |2023-05-25 | 11:12:38 |  0982941149 | 3 | 3095 | GET_BALANCES | ae6beff42086445ab96cabd9c0def825 | Android | Successful | 0000 | 10.0.2.15 | 115
+MonitorActionLog |2023-05-25 | 11:12:38 |  0982941149 | 3 | 3095 | GET_NEW_PROMOTION_NUMBER | 5c604e65b68f4c278f4540cc4a18d5f3 | Android | Successful | 0000 | 10.0.2.15 | 64
+MonitorActionLog |2023-05-25 | 11:12:38 |  0982941149 | 3 | 3095 | GET_HOME_OBJECT | 384c745cc63248e6bfe8b2b2f3eba904 | Android | Th�nh c�ng | 0000 | 10.0.2.15 | 115
+MonitorActionLog |2023-05-25 | 11:12:39 |  0982941149 | 3 | 3095 | GET_USER_INFO | 65f20df1a9464a6b9e1346f34739b993 | Android | Successful | 0000 | 10.0.2.15 | 79
+MonitorActionLog |2023-05-25 | 11:12:42 |  0982941149 | 3 | 3095 | PARSE_QR_CODE | f981f8af49334a2daaa304ce2426e3d0 | Android | Successful | 0000 | 10.0.2.15 | 104
+MonitorActionLog |2023-05-25 | 11:12:43 |  0982941149 | 3 | 3095 | CHECK_ACC | 32a76a801e7449fb86d3235d66a6510c | Android | Successful | 0000 | 10.0.2.15 | 1092
+MonitorActionLog |2023-05-25 | 11:12:43 |  0982941149 | 3 | 3095 | TRANSFER_LIMIT | b77cf753ce984fe6988f6378462ea092 | Android | Successful | 0000 | 10.0.2.15 | 57
+MonitorActionLog |2023-05-25 | 11:12:43 |  0982941149 | 3 | 3095 | GET_BANK | 290c7cd3748747c099c327944ecdfffb | Android | Successful | 0000 | 10.0.2.15 | 313
+MonitorActionLog |2023-05-25 | 11:12:43 |  0982941149 | 3 | 3095 | GET_BALANCES | 0bfb0007bd2249308e7d6c97f34d8223 | Android | Successful | 0000 | 10.0.2.15 | 186
+MonitorActionLog |2023-05-25 | 11:12:52 |  0982941149 | 3 | 3095 | GET_BALANCES | a0f44647ac724fecb0c571cab27c92c6 | Android | Successful | 0000 | 10.0.2.15 | 73
+MonitorActionLog |2023-05-25 | 11:12:52 |  0982941149 | 3 | 3095 | GET_BANNER_LIST | 8019df0174194a1ba31b9cc164bd56b4 | Android | Successful | 0000 | 10.0.2.15 | 105
+MonitorActionLog |2023-05-25 | 11:12:52 |  0982941149 | 3 | 3095 | GET_REMINDER | 4fa73a6006614ca483a07c8305dee1d9 | Android | Successful | 0000 | 10.0.2.15 | 77
+MonitorActionLog |2023-05-25 | 11:12:52 |  0982941149 | 3 | 3095 | GET_NEW_PROMOTION_NUMBER | 45ab345687d3453cb4233e3a1f45839c | Android | Successful | 0000 | 10.0.2.15 | 51
+MonitorActionLog |2023-05-25 | 11:12:52 |  0982941149 | 3 | 3095 | GET_HOME_OBJECT | 70492cc1d63c4d50a601daff899a2102 | Android | Th�nh c�ng | 0000 | 10.0.2.15 | 96
+MonitorActionLog |2023-05-25 | 11:13:43 |  0982941149 | 3 | 3095 | GET_USER_INFO | b860a2352ecd407eb9ce57830cfa74ee | Android | Successful | 0000 | 10.0.2.15 | 76
+MonitorActionLog |2023-05-25 | 11:14:31 |  0982941149 | 3 | 3095 | GET_BALANCES | 1a8b55237d0146dca2720067d178f4a6 | Android | Successful | 0000 | 10.0.2.15 | 93
+MonitorActionLog |2023-05-25 | 11:14:32 |  0982941149 | 3 | 3095 | GET_BANNER_LIST | fc1cfd2f33a14ff58f9dba0f5b0c8277 | Android | Successful | 0000 | 10.0.2.15 | 137
+MonitorActionLog |2023-05-25 | 11:14:32 |  0982941149 | 3 | 3095 | GET_HOME_OBJECT | 87fe1c3a9bfd4f32b68b29cff02713d0 | Android | Th�nh c�ng | 0000 | 10.0.2.15 | 106
+MonitorActionLog |2023-05-25 | 11:14:32 |  0982941149 | 3 | 3095 | GET_REMINDER | 9859a8ba38684a0c82b38f041c8d8694 | Android | Successful | 0000 | 10.0.2.15 | 94
+MonitorActionLog |2023-05-25 | 11:14:32 |  0982941149 | 3 | 3095 | GET_NEW_PROMOTION_NUMBER | 06107f40059945b799cd205d8950b412 | Android | Successful | 0000 | 10.0.2.15 | 53
+MonitorActionLog |2023-05-25 | 11:14:33 |  0982941149 | 3 | 3095 | GET_BALANCES | 4428196201b4460e9482dbb49469b58b | Android | Successful | 0000 | 10.0.2.15 | 75
+MonitorActionLog |2023-05-25 | 11:14:33 |  0982941149 | 3 | 3095 | GET_USER_INFO | 08444bc187f04687a5ab8cda7d08576b | Android | Successful | 0000 | 10.0.2.15 | 77
+MonitorActionLog |2023-05-25 | 11:14:39 |  null | null | null | GET_VERSIONS | dfba44bd989b47e1b5fd542342a5c85b | Android | Successful | 0000 | 172.16.13.60 | 47
+MonitorActionLog |2023-05-25 | 11:14:40 |  0982941149 | 3 | 3095 | GET_USER_INFO | 9d2834f11187479eb2dd4dabaaccebf1 | Android | Successful | 0000 | 10.0.2.15 | 77
+MonitorActionLog |2023-05-25 | 11:14:40 |  null | null | null | GET_SECRET_KEY | affeb937490c4a1e9888ef7559838db9 | Android | SUCCESS | 0000 | 172.16.13.60 | 317
+MonitorActionLog |2023-05-25 | 11:14:41 |  0971651512 | 3 | 2684 | PHONE_CHECK | 970c26aa3c904164a7744d935fdc7a16 | Android | Sorry, your phone number is not supported | 7303 | 172.16.13.60 | 92
+MonitorActionLog |2023-05-25 | 11:14:47 |  0971651512 | 3 | 2684 | PHONE_CHECK | 61f8d3d487a84ec59da6daaf5a22c418 | Android | OTP already be sent, please try again after 2 minutes  | 7306 | 172.16.13.60 | 84
+MonitorActionLog |2023-05-25 | 11:14:52 |  null | null | null | GET_SECRET_KEY | D8C55276-430F-420E-B6E8-36D1C6538921 | IOS | SUCCESS | 0000 | 172.16.13.160 | 319
+MonitorActionLog |2023-05-25 | 11:14:52 |  null | null | null | GET_VERSIONS | 53380ECB-FD7D-4CA0-AFCD-459EF8516D33 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 47
+MonitorActionLog |2023-05-25 | 11:14:53 |  null | null | null | PHONE_CHECK | 2F2271B9-A2D5-4269-809F-358AAA16B6BB | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 87
+MonitorActionLog |2023-05-25 | 11:15:14 |  0982941149 | 3 | 3095 | GET_USER_INFO | 7818c09d246e4d01bec6be2138e499ec | Android | Successful | 0000 | 10.0.2.15 | 81
+MonitorActionLog |2023-05-25 | 11:15:17 |  0982941149 | 3 | 3095 | GET_USER_INFO | 8ce43b5c709b402d82815c08d0ef817b | Android | Successful | 0000 | 10.0.2.15 | 81
+MonitorActionLog |2023-05-25 | 11:15:17 |  0982941149 | 3 | 3095 | GET_BALANCES | 3c06e1442d4948dd83c955b61bf9add3 | Android | Successful | 0000 | 10.0.2.15 | 73
+MonitorActionLog |2023-05-25 | 11:15:20 |  0982941149 | 3 | 3095 | GET_USER_INFO | 3c8bd68ddb404f88b2cc12b1cf97b825 | Android | Successful | 0000 | 10.0.2.15 | 79
+MonitorActionLog |2023-05-25 | 11:16:06 |  0982941149 | 3 | 3095 | PARSE_QR_CODE | dd621751385848219155822064d195ed | Android | Successful | 0000 | 10.0.2.15 | 98
+MonitorActionLog |2023-05-25 | 11:16:07 |  0982941149 | 3 | 3095 | CHECK_ACC | ebe0563b58b64577bc25c91a8e6b4e61 | Android | Successful | 0000 | 10.0.2.15 | 1100
+MonitorActionLog |2023-05-25 | 11:16:08 |  0982941149 | 3 | 3095 | TRANSFER_LIMIT | 34cddabdb8364a75bd5c2cb71c56bf1a | Android | Successful | 0000 | 10.0.2.15 | 91
+MonitorActionLog |2023-05-25 | 11:16:08 |  0982941149 | 3 | 3095 | GET_BANK | a7cadc7bfd1c49ff926055f66cb46b8b | Android | Successful | 0000 | 10.0.2.15 | 300
+MonitorActionLog |2023-05-25 | 11:16:08 |  0982941149 | 3 | 3095 | GET_BALANCES | 7446eae189f44404bf4d3b3ef77aace5 | Android | Successful | 0000 | 10.0.2.15 | 147
+MonitorActionLog |2023-05-25 | 11:16:30 |  null | null | null | LOGIN | 6816B150-0A05-4782-B4CF-89C4B5332431 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 259
+MonitorActionLog |2023-05-25 | 11:16:30 |  0972730191 | 3 | 2883 | REG_FCM | 17E50695-1520-4403-9159-36F9CF20E905 | IOS | Successful | 0000 | 172.16.13.160 | 67
+MonitorActionLog |2023-05-25 | 11:16:30 |  0972730191 | 3 | 2883 | GET_USER_INFO | AE6C485C-E73B-48A5-8C87-4847C3C3B5D3 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 83
+MonitorActionLog |2023-05-25 | 11:16:32 |  0972730191 | 3 | 2883 | GET_BALANCES | 853484AB-E5F9-42F3-95BE-123E34564167 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 137
+MonitorActionLog |2023-05-25 | 11:16:32 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | DB501E46-4F5D-43C7-8A60-2F23A663C09C | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 148
+MonitorActionLog |2023-05-25 | 11:16:32 |  0972730191 | 3 | 2883 | GET_REMINDER | 7C1113BD-DDC1-4D28-A4FA-DE2C9ABC8043 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 151
+MonitorActionLog |2023-05-25 | 11:16:32 |  0972730191 | 3 | 2883 | GET_BANNER_LIST | 06994FC0-66A1-4150-BD2E-9C8ACED63724 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 173
+MonitorActionLog |2023-05-25 | 11:16:32 |  0972730191 | 3 | 2883 | GET_HOME_OBJECT | 9AEAF7BC-3EA9-432E-8571-8BDF7DC2FE73 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 182
+MonitorActionLog |2023-05-25 | 11:16:33 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | F415C111-FC05-448B-8C66-603F7CE7177D | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 98
+MonitorActionLog |2023-05-25 | 11:16:33 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | 516E2414-7162-4591-810C-A5B528F2C429 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 118
+MonitorActionLog |2023-05-25 | 11:16:34 |  0972730191 | 3 | 2883 | GET_ADMIN_PIN_LIST | 5F5AB701-FD79-49B4-B552-F0BD9DD28CA4 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 160
+MonitorActionLog |2023-05-25 | 11:16:34 |  0972730191 | 3 | 2883 | NEWSFEED | 8F1054A1-1324-488F-8196-0FC06FB7D6C1 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 412
+MonitorActionLog |2023-05-25 | 11:16:46 |  0972730191 | 3 | 2883 | MYPOST | EBAD6E61-005A-47C1-A32D-E200DB4B35BC | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 296
+MonitorActionLog |2023-05-25 | 11:16:48 |  0972730191 | 3 | 2883 | GET_LIST_SOCIAL | BD3CD26F-1655-4DA1-98A6-D8FCE2EB73C3 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 90
+MonitorActionLog |2023-05-25 | 11:16:48 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | 549396FE-B60D-4DBB-9D09-E0B1DB6A7A58 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 107
+MonitorActionLog |2023-05-25 | 11:17:00 |  0972730191 | 3 | 2883 | GET_LIST_SOCIAL | 56DE7B73-D5A4-45BE-A25E-288531DFCF15 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 86
+MonitorActionLog |2023-05-25 | 11:17:00 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | 3F3D363D-10C3-4316-9829-943F10401BEE | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 98
+MonitorActionLog |2023-05-25 | 11:17:47 |  0972730191 | 3 | 2883 | GET_COMPANY_POST | 64CF664C-EF18-4A00-9FE0-B94722F943E0 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 280
+MonitorActionLog |2023-05-25 | 11:17:54 |  0972730191 | 3 | 2883 | MYPOST | 241A4C30-ABDF-4477-BE8D-D784F972CC7F | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 296
+MonitorActionLog |2023-05-25 | 11:17:58 |  0972730191 | 3 | 2883 | GET_COMPANY_POST | E94A09E2-7BD1-4D3C-9D8A-FD3A2D2FA021 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 260
+MonitorActionLog |2023-05-25 | 11:18:07 |  0972730191 | 3 | 2883 | MYPOST | AB9E2C39-8E2B-4BEE-94F7-77C9EAD80BAA | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 292
+MonitorActionLog |2023-05-25 | 11:18:10 |  0972730191 | 3 | 2883 | GET_COMPANY_POST | 628125FE-E48D-4263-B2BF-9C62A368C629 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 254
+MonitorActionLog |2023-05-25 | 11:22:14 |  0972730191 | 3 | 2883 | MYPOST | E34A9C5C-9964-424B-A183-CA4B7F7411BF | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 319
+MonitorActionLog |2023-05-25 | 11:25:13 |  0972730191 | 3 | 2883 | MYPOST | B0311BAE-6060-439D-8D3D-F6D020617797 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 286
+MonitorActionLog |2023-05-25 | 11:26:33 |  null | null | null | GET_SECRET_KEY | 5D133287-6FF7-4E8B-9BEB-8226E724BE6A | IOS | SUCCESS | 0000 | 172.16.13.160 | 324
+MonitorActionLog |2023-05-25 | 11:26:33 |  null | null | null | GET_VERSIONS | F7AB923A-4288-421E-8687-B9F73076C026 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 50
+MonitorActionLog |2023-05-25 | 11:26:34 |  null | null | null | PHONE_CHECK | BBCFC410-6B52-40CE-BCDF-47AAB692B42F | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 75
+MonitorActionLog |2023-05-25 | 11:26:42 |  null | null | null | LOGIN | AD66A37A-4B57-42E5-A8F0-91563C2958FF | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 270
+MonitorActionLog |2023-05-25 | 11:26:42 |  0972730191 | 3 | 2883 | REG_FCM | B1D01E83-2624-4888-8E51-5B54B7A6C19A | IOS | Successful | 0000 | 172.16.13.160 | 70
+MonitorActionLog |2023-05-25 | 11:26:42 |  0972730191 | 3 | 2883 | GET_USER_INFO | CBFF2007-D6FE-4896-A505-0B987DB555A1 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 89
+MonitorActionLog |2023-05-25 | 11:26:44 |  0972730191 | 3 | 2883 | GET_REMINDER | 99FBCE46-0026-47B0-8981-9A2B41E63774 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 122
+MonitorActionLog |2023-05-25 | 11:26:44 |  0972730191 | 3 | 2883 | GET_BALANCES | 4B5263C9-05DC-42EE-B7E6-33E1841E5A9A | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 143
+MonitorActionLog |2023-05-25 | 11:26:44 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | 3E6F9087-0170-43EA-8447-5591E8B82ECF | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 151
+MonitorActionLog |2023-05-25 | 11:26:44 |  0972730191 | 3 | 2883 | GET_BANNER_LIST | 99331BE1-7FDE-4493-85EA-E2D3C5060AFF | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 172
+MonitorActionLog |2023-05-25 | 11:26:44 |  0972730191 | 3 | 2883 | GET_HOME_OBJECT | 6F2CA6C2-F3AE-42E1-AFE5-CDC78DE2464E | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 182
+MonitorActionLog |2023-05-25 | 11:26:45 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | 1B70F069-9CC3-4CAD-A236-727FB11A2B9C | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 112
+MonitorActionLog |2023-05-25 | 11:26:45 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | 48DD7DD3-3CCE-4333-9752-DD1ED782485F | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 115
+MonitorActionLog |2023-05-25 | 11:26:45 |  0972730191 | 3 | 2883 | GET_ADMIN_PIN_LIST | F3450A8F-1101-422C-99F5-0A3B7C0DCBB7 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 311
+MonitorActionLog |2023-05-25 | 11:26:45 |  0972730191 | 3 | 2883 | NEWSFEED | 79D9E689-6755-4943-8F10-3BCD31FA01D3 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 402
+MonitorActionLog |2023-05-25 | 11:26:52 |  0972730191 | 3 | 2883 | MYPOST | 0BDC2947-D91E-4D0E-A6DB-705AE08A3A29 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 320
+MonitorActionLog |2023-05-25 | 11:27:07 |  0972730191 | 3 | 2883 | GET_COMPANY_POST | 3AE68D1C-5844-453B-835F-7DA9CFE7EC74 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 238
+MonitorActionLog |2023-05-25 | 11:30:30 |  0982941149 | 3 | 3095 | GET_BALANCES | 94f7cd1b76ae4418b404036812466878 | Android | Successful | 0000 | 10.0.2.15 | 103
+MonitorActionLog |2023-05-25 | 11:30:30 |  0982941149 | 3 | 3095 | GET_USER_INFO | 78292e6c0c0d413e85c791590cab7151 | Android | Successful | 0000 | 10.0.2.15 | 79
+MonitorActionLog |2023-05-25 | 11:30:32 |  0982941149 | 3 | 3095 | GET_BALANCES | 2f5cdff45b14470284926e1e6e6d1166 | Android | Successful | 0000 | 10.0.2.15 | 78
+MonitorActionLog |2023-05-25 | 11:30:32 |  0982941149 | 3 | 3095 | GET_REMINDER | 0ccef808ff2b4e7bbe35ed68fc54e689 | Android | Successful | 0000 | 10.0.2.15 | 67
+MonitorActionLog |2023-05-25 | 11:30:32 |  0982941149 | 3 | 3095 | GET_BANNER_LIST | 0b4cca90e93d4949bd7f2068f5636595 | Android | Successful | 0000 | 10.0.2.15 | 118
+MonitorActionLog |2023-05-25 | 11:30:32 |  0982941149 | 3 | 3095 | GET_NEW_PROMOTION_NUMBER | d74a220737004a128e156bd53e65e15c | Android | Successful | 0000 | 10.0.2.15 | 58
+MonitorActionLog |2023-05-25 | 11:30:32 |  0982941149 | 3 | 3095 | GET_HOME_OBJECT | a85c73c1ed6d4c57ae7342e2963c0f2d | Android | Th�nh c�ng | 0000 | 10.0.2.15 | 111
+MonitorActionLog |2023-05-25 | 11:30:32 |  0982941149 | 3 | 3095 | GET_USER_INFO_NEW | 0bbfdbb8ba814c8d87b1a8ac0095cfdc | Android | Successful | 0000 | 10.0.2.15 | 106
+MonitorActionLog |2023-05-25 | 11:30:32 |  0982941149 | 3 | 3095 | GET_ADMIN_PIN_LIST | 24585f3a14114b1780c838712e3978d4 | Android | Successful | 0000 | 10.0.2.15 | 168
+MonitorActionLog |2023-05-25 | 11:30:33 |  0982941149 | 3 | 3095 | NEWSFEED | 30c06443516341a1abd3b39c498a715a | Android | Successful | 0000 | 10.0.2.15 | 407
+MonitorActionLog |2023-05-25 | 11:30:40 |  null | null | null | GET_SECRET_KEY | 5FEE10EC-A39C-49AE-92CA-4F5EC9603991 | IOS | SUCCESS | 0000 | 172.16.13.160 | 316
+MonitorActionLog |2023-05-25 | 11:30:40 |  null | null | null | GET_VERSIONS | 413A725D-855D-466B-82FC-E274C07F76D1 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 43
+MonitorActionLog |2023-05-25 | 11:30:41 |  null | null | null | PHONE_CHECK | F5ACBCD7-825C-490F-9E83-352AD3169F78 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 75
+MonitorActionLog |2023-05-25 | 11:30:45 |  null | null | null | LOGIN | 55A742F6-7D22-4281-8EDC-52B5D034CAAD | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 270
+MonitorActionLog |2023-05-25 | 11:30:46 |  0972730191 | 3 | 2883 | REG_FCM | C9406D3B-B370-40E9-9E32-E0586EECC283 | IOS | Successful | 0000 | 172.16.13.160 | 67
+MonitorActionLog |2023-05-25 | 11:30:46 |  0972730191 | 3 | 2883 | GET_USER_INFO | 73140407-05C1-4386-BFF5-D414CF011F08 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 84
+MonitorActionLog |2023-05-25 | 11:30:46 |  0982941149 | 3 | 3095 | GET_COMMENTS | a1ff716a56034619a48b3ef2f3148fe6 | Android | Successful | 0000 | 10.0.2.15 | 118
+MonitorActionLog |2023-05-25 | 11:30:46 |  0982941149 | 3 | 3095 | GET_POST_DETAIL | 4dd38f0304ec406cbad10c83232b6a04 | Android | Successful | 0000 | 10.0.2.15 | 212
+MonitorActionLog |2023-05-25 | 11:30:48 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | B940AE0A-6456-4568-B3A5-6432808EFBB8 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 147
+MonitorActionLog |2023-05-25 | 11:30:48 |  0972730191 | 3 | 2883 | GET_REMINDER | 504E8CF5-FB0A-4640-AA1F-A54FB3BF1C7A | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 149
+MonitorActionLog |2023-05-25 | 11:30:48 |  0972730191 | 3 | 2883 | GET_BALANCES | 2632D6DC-ABBE-4C28-8E7E-52198AEAA49B | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 167
+MonitorActionLog |2023-05-25 | 11:30:48 |  0972730191 | 3 | 2883 | GET_HOME_OBJECT | D248E2EC-5E7E-451F-9EF2-CB843B49FF4D | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 177
+MonitorActionLog |2023-05-25 | 11:30:48 |  0972730191 | 3 | 2883 | GET_BANNER_LIST | 372117AE-334B-44D5-B015-8D9836D11E13 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 186
+MonitorActionLog |2023-05-25 | 11:30:50 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | 68BD0430-581E-435C-9E5F-354F87093D0F | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 109
+MonitorActionLog |2023-05-25 | 11:30:50 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | D48AB087-8F78-4B21-8C10-08C7699B8CE3 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 110
+MonitorActionLog |2023-05-25 | 11:30:50 |  0972730191 | 3 | 2883 | GET_ADMIN_PIN_LIST | E516EDF7-50BC-4092-86D3-DB989D3984E8 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 169
+MonitorActionLog |2023-05-25 | 11:30:51 |  0972730191 | 3 | 2883 | NEWSFEED | E3B82772-7367-4A48-910C-839EC65CC6E6 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 455
+MonitorActionLog |2023-05-25 | 11:30:57 |  0972730191 | 3 | 2883 | MYPOST | 003D52CA-EA4F-4361-ADEE-E3E3986ABA5B | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 272
+MonitorActionLog |2023-05-25 | 11:31:05 |  0972730191 | 3 | 2883 | GET_COMPANY_POST | 222BA604-9CAE-4957-A746-F51B2CBBFB4A | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 245
+MonitorActionLog |2023-05-25 | 11:31:51 |  null | null | null | GET_SECRET_KEY | 15C662ED-CA4D-450A-8759-0DEFA6254E91 | IOS | SUCCESS | 0000 | 172.16.13.160 | 313
+MonitorActionLog |2023-05-25 | 11:31:51 |  null | null | null | GET_VERSIONS | 83B13B77-7DE1-4FEE-BEA9-86E7CDE23B03 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 50
+MonitorActionLog |2023-05-25 | 11:31:51 |  null | null | null | PHONE_CHECK | 3C825620-F399-4533-932C-9A2E65F1406E | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 81
+MonitorActionLog |2023-05-25 | 11:31:56 |  null | null | null | LOGIN | 921A3D75-902F-4A8B-B7AE-D642D50BEC55 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 263
+MonitorActionLog |2023-05-25 | 11:31:56 |  0972730191 | 3 | 2883 | REG_FCM | 83BBF523-C7DB-4E20-B909-3A2B38263D10 | IOS | Successful | 0000 | 172.16.13.160 | 71
+MonitorActionLog |2023-05-25 | 11:31:56 |  0972730191 | 3 | 2883 | GET_USER_INFO | 40C30380-B757-45B8-9132-2677251E2E05 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 93
+MonitorActionLog |2023-05-25 | 11:31:58 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | 6E7F4201-CDC3-4FC3-A6DE-4E000673E588 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 135
+MonitorActionLog |2023-05-25 | 11:31:58 |  0972730191 | 3 | 2883 | GET_BALANCES | 34FA6954-8245-4D87-A033-494BFCDE10ED | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 156
+MonitorActionLog |2023-05-25 | 11:31:58 |  0972730191 | 3 | 2883 | GET_HOME_OBJECT | 78A207EA-A26F-4080-ADFE-6B8C18BFBA25 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 167
+MonitorActionLog |2023-05-25 | 11:31:58 |  0972730191 | 3 | 2883 | GET_REMINDER | 9DD776E2-73AE-4D4C-94DA-C5DA8E76FF6E | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 179
+MonitorActionLog |2023-05-25 | 11:31:58 |  0972730191 | 3 | 2883 | GET_BANNER_LIST | 24E018A0-4D88-4DCB-B6F6-E6172291635C | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 192
+MonitorActionLog |2023-05-25 | 11:32:00 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | 965F71CA-1CFC-4A85-B54C-816DF21885BE | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 100
+MonitorActionLog |2023-05-25 | 11:32:00 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | C3A86862-D3F8-418E-A5AD-FA161188288E | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 107
+MonitorActionLog |2023-05-25 | 11:32:00 |  0972730191 | 3 | 2883 | GET_ADMIN_PIN_LIST | DDD6D3D9-696C-474E-9AF4-C90001CB3AFD | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 160
+MonitorActionLog |2023-05-25 | 11:32:01 |  0972730191 | 3 | 2883 | NEWSFEED | E04717F8-E82B-4AFA-BD06-6B24B1337AB8 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 392
+MonitorActionLog |2023-05-25 | 11:32:03 |  0972730191 | 3 | 2883 | MYPOST | 0BBF6E5C-609D-40A8-B27E-23E90597525C | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 281
+MonitorActionLog |2023-05-25 | 11:32:07 |  0972730191 | 3 | 2883 | GET_COMPANY_POST | 9D4D33E2-8257-41C9-9E66-3E1DC05573AA | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 240
+MonitorActionLog |2023-05-25 | 11:32:14 |  0972730191 | 3 | 2883 | MYPOST | E8C33A75-088E-440A-A765-B5AC48AE6ADE | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 271
+MonitorActionLog |2023-05-25 | 11:32:18 |  0972730191 | 3 | 2883 | GET_COMPANY_POST | 55F93D04-6DCD-466C-A57B-BC0C979336E1 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 270
+MonitorActionLog |2023-05-25 | 11:32:35 |  0972730191 | 3 | 2883 | MYPOST | 642C91AD-09E7-498A-B120-C68D84853CFB | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 270
+MonitorActionLog |2023-05-25 | 13:13:06 |  null | null | null | GET_SECRET_KEY | 19425FB9-C09F-4A2D-8F27-5F234D078692 | IOS | SUCCESS | 0000 | 172.16.13.203 | 337
+MonitorActionLog |2023-05-25 | 13:13:06 |  null | null | null | GET_VERSIONS | A6323384-D67D-4936-A3B2-42622B445A51 | IOS | Successful | 0000 | 172.16.13.203 | 61
+MonitorActionLog |2023-05-25 | 13:13:06 |  null | null | null | PHONE_CHECK | CE35118A-BE49-494F-AB3E-79116E5D2C92 | IOS | Successful | 0000 | 172.16.13.203 | 82
+MonitorActionLog |2023-05-25 | 13:13:08 |  null | null | null | LOGIN_BIOMETRIC | 71D7C6ED-D952-45DF-A0C7-1981812E79FF | IOS | Successful | 0000 | 172.16.13.203 | 145
+MonitorActionLog |2023-05-25 | 13:13:08 |  0944101190 | 3 | 2921 | REG_FCM | 40D1367B-F33A-42E6-8873-55A55ED742BB | IOS | Successful | 0000 | 172.16.13.203 | 73
+MonitorActionLog |2023-05-25 | 13:13:08 |  0944101190 | 3 | 2921 | GET_USER_INFO | 876DB769-1F18-4C8E-880F-4E0066ED37DF | IOS | Successful | 0000 | 172.16.13.203 | 96
+MonitorActionLog |2023-05-25 | 13:13:09 |  0944101190 | 3 | 2921 | MAPPING_BANK_ACCOUNT | D35870C5-D0EE-4FCA-9689-891C4080BF9E | IOS | Successful | 0000 | 172.16.13.203 | 121
+MonitorActionLog |2023-05-25 | 13:13:09 |  0944101190 | 3 | 2921 | GET_BALANCES | 6C557B51-C6D6-41CA-A021-06C9CABA7548 | IOS | Successful | 0000 | 172.16.13.203 | 126
+MonitorActionLog |2023-05-25 | 13:13:09 |  0944101190 | 3 | 2921 | GET_REMINDER | 5F3AC7D9-FC7F-4345-9142-312C156C5ED0 | IOS | Successful | 0000 | 172.16.13.203 | 127
+MonitorActionLog |2023-05-25 | 13:13:09 |  0944101190 | 3 | 2921 | GET_HOME_OBJECT | 8E5DF63D-51FB-4E81-A3A2-0C8DB6A9A8A4 | IOS | Th�nh c�ng | 0000 | 172.16.13.203 | 143
+MonitorActionLog |2023-05-25 | 13:13:09 |  0944101190 | 3 | 2921 | GET_BANNER_LIST | F4123070-E7CA-498F-A4B2-C32B57FF6BAE | IOS | Successful | 0000 | 172.16.13.203 | 128
+MonitorActionLog |2023-05-25 | 13:13:11 |  0944101190 | 3 | 2921 | MAPPING_BANK_ACCOUNT | 15B972BA-496A-43A6-A5BA-7EC9EEF20A65 | IOS | Successful | 0000 | 172.16.13.203 | 89
+MonitorActionLog |2023-05-25 | 13:13:11 |  0944101190 | 3 | 2921 | GET_USER_INFO_NEW | 17A99A7B-C659-4DD1-AB37-3DD6267F429B | IOS | Successful | 0000 | 172.16.13.203 | 121
+MonitorActionLog |2023-05-25 | 13:13:11 |  0944101190 | 3 | 2921 | GET_ADMIN_PIN_LIST | 6CF3DFB1-FA46-45DA-9EC5-15B0496923F6 | IOS | Successful | 0000 | 172.16.13.203 | 187
+MonitorActionLog |2023-05-25 | 13:13:12 |  0944101190 | 3 | 2921 | NEWSFEED | 5486020D-48D8-4631-A794-FF3F521BF7A6 | IOS | Successful | 0000 | 172.16.13.203 | 447
+MonitorActionLog |2023-05-25 | 13:13:20 |  0944101190 | 3 | 2921 | GET_USER_INFO_NEW | 912C92DB-E583-4A1A-AA34-4A86B5A9399E | IOS | Successful | 0000 | 172.16.13.203 | 137
+MonitorActionLog |2023-05-25 | 13:13:20 |  0944101190 | 3 | 2921 | GET_POST_DETAIL | CC809288-207E-4BD9-8866-BBAB91D672E5 | IOS | Successful | 0000 | 172.16.13.203 | 156
+MonitorActionLog |2023-05-25 | 13:13:41 |  0944101190 | 3 | 2921 | GET_USER_INFO_NEW | 9FC7AFB2-0F41-47FB-9DE6-A656EF66D294 | IOS | Successful | 0000 | 172.16.13.203 | 59
+MonitorActionLog |2023-05-25 | 13:13:42 |  0944101190 | 3 | 2921 | GET_COMPANY_POST | 7065491E-00FB-4DD3-9483-56CB19C247C9 | IOS | Successful | 0000 | 172.16.13.203 | 246
+MonitorActionLog |2023-05-25 | 13:14:08 |  0944101190 | 3 | 2921 | GET_USER_INFO_NEW | FD001CAF-EF1A-48FC-8008-FF91E9C153DD | IOS | Successful | 0000 | 172.16.13.203 | 104
+MonitorActionLog |2023-05-25 | 13:14:08 |  0944101190 | 3 | 2921 | GET_POST_DETAIL | 8BBBD0FA-9408-4020-8E2F-427CFB1C95AA | IOS | Successful | 0000 | 172.16.13.203 | 129
+MonitorActionLog |2023-05-25 | 13:17:06 |  null | null | null | GET_SECRET_KEY | B3B1A06E-AD03-4D7E-B0BF-E6477061DD21 | IOS | SUCCESS | 0000 | 172.16.13.203 | 318
+MonitorActionLog |2023-05-25 | 13:17:07 |  null | null | null | GET_VERSIONS | 200B49D4-7D09-4EE4-A4B3-DF5B257C843B | IOS | Successful | 0000 | 172.16.13.203 | 53
+MonitorActionLog |2023-05-25 | 13:17:07 |  null | null | null | PHONE_CHECK | C539CB36-72E3-4C85-B74C-2CC47A3126B2 | IOS | Successful | 0000 | 172.16.13.203 | 82
+MonitorActionLog |2023-05-25 | 13:23:34 |  INIT Logging Controller Advice
+MonitorActionLog |2023-05-25 | 13:23:59 |  null | null | null | GET_SECRET_KEY | 6314B8B6-1D53-4FEA-ABF9-4659F5D7891D | IOS | SUCCESS | 0000 | 172.16.13.160 | 763
+MonitorActionLog |2023-05-25 | 13:23:59 |  null | null | null | GET_VERSIONS | 28CBCE26-8112-41F1-91C9-E12DC365ABA5 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 138
+MonitorActionLog |2023-05-25 | 13:23:59 |  null | null | null | PHONE_CHECK | 5724A67A-86F4-43C5-9A75-ACBBA4070382 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 79
+MonitorActionLog |2023-05-25 | 13:30:15 |  0982941149 | 3 | 3095 | GET_ADMIN_PIN_LIST | e497cc78738f4fb4ba2516ab067ff2bd | Android | Successful | 0000 | 10.0.2.15 | 251
+MonitorActionLog |2023-05-25 | 13:30:15 |  0982941149 | 3 | 3095 | NEWSFEED | 0160c337e57140338d39fc0a2b985ffe | Android | Successful | 0000 | 10.0.2.15 | 393
+MonitorActionLog |2023-05-25 | 13:30:16 |  0982941149 | 3 | 3095 | GET_BALANCES | 6597552310ec40069e4c611bfd8c03f5 | Android | Successful | 0000 | 10.0.2.15 | 80
+MonitorActionLog |2023-05-25 | 13:30:16 |  0982941149 | 3 | 3095 | GET_BANNER_LIST | faa22774d1b2443eb92174fd13b59ba2 | Android | Successful | 0000 | 10.0.2.15 | 116
+MonitorActionLog |2023-05-25 | 13:30:16 |  0982941149 | 3 | 3095 | GET_NEW_PROMOTION_NUMBER | 8e19d9bbfc144baf8729d17a769f4bd6 | Android | Successful | 0000 | 10.0.2.15 | 67
+MonitorActionLog |2023-05-25 | 13:30:16 |  0982941149 | 3 | 3095 | GET_HOME_OBJECT | e54c36c32d36417f9f3e10043e8d09f8 | Android | Th�nh c�ng | 0000 | 10.0.2.15 | 118
+MonitorActionLog |2023-05-25 | 13:30:16 |  0982941149 | 3 | 3095 | GET_REMINDER | 2fa159c285844b8f9e8bf898949b5e9c | Android | Successful | 0000 | 10.0.2.15 | 83
+MonitorActionLog |2023-05-25 | 13:30:19 |  0982941149 | 3 | 3095 | GET_USER_INFO_NEW | a465835e78bf435788971f9179f713fc | Android | Successful | 0000 | 10.0.2.15 | 110
+MonitorActionLog |2023-05-25 | 13:30:19 |  0982941149 | 3 | 3095 | GET_ADMIN_PIN_LIST | adbf8e9abb00410ca32ad8e2100b37d9 | Android | Successful | 0000 | 10.0.2.15 | 155
+MonitorActionLog |2023-05-25 | 13:30:20 |  0982941149 | 3 | 3095 | NEWSFEED | 50816ddf3a844229b07027801b9e1c9f | Android | Successful | 0000 | 10.0.2.15 | 374
+MonitorActionLog |2023-05-25 | 13:33:48 |  0982941149 | 3 | 3095 | GET_ADMIN_PIN_LIST | f54bbd96c81548f28d6825a664f1a452 | Android | Successful | 0000 | 10.0.2.15 | 156
+MonitorActionLog |2023-05-25 | 13:33:48 |  0982941149 | 3 | 3095 | NEWSFEED | 083e0a10bc5c4d8cae7ba183a0615eb3 | Android | Successful | 0000 | 10.0.2.15 | 383
+MonitorActionLog |2023-05-25 | 13:36:05 |  0982941149 | 3 | 3095 | CREATE_POST | b0cb2099eaab40b29661b72c867bf709 | Android | Successful | 0000 | 10.0.2.15 | 144
+MonitorActionLog |2023-05-25 | 13:36:05 |  0982941149 | 3 | 3095 | GET_ADMIN_PIN_LIST | 64615e945a084b3bbd1ed1461652bf73 | Android | Successful | 0000 | 10.0.2.15 | 148
+MonitorActionLog |2023-05-25 | 13:36:05 |  0982941149 | 3 | 3095 | NEWSFEED | b28ede57e8ee4d87b053c902f14c9611 | Android | Successful | 0000 | 10.0.2.15 | 379
+MonitorActionLog |2023-05-25 | 13:36:07 |  0982941149 | 3 | 3095 | GET_POST_DETAIL | ebc5c0adb0814451a8584ca73578547f | Android | Successful | 0000 | 10.0.2.15 | 112
+MonitorActionLog |2023-05-25 | 13:36:07 |  0982941149 | 3 | 3095 | GET_COMMENTS | 3fbf06265a4b42108f49bc7a669d30a1 | Android | Successful | 0000 | 10.0.2.15 | 105
+MonitorActionLog |2023-05-25 | 13:36:11 |  0982941149 | 3 | 3095 | GET_ADMIN_PIN_LIST | 97ec03eaf78b456fa620c553ada0c6ea | Android | Successful | 0000 | 10.0.2.15 | 144
+MonitorActionLog |2023-05-25 | 13:36:11 |  0982941149 | 3 | 3095 | NEWSFEED | fc0f642da59c45629515ed48c8ca4a1e | Android | Successful | 0000 | 10.0.2.15 | 367
+MonitorActionLog |2023-05-25 | 13:36:12 |  0982941149 | 3 | 3095 | GET_POST_DETAIL | 6ce6605d14fb45999a314ddfcb04ae3d | Android | Successful | 0000 | 10.0.2.15 | 103
+MonitorActionLog |2023-05-25 | 13:36:12 |  0982941149 | 3 | 3095 | GET_COMMENTS | b25fe8db21a044159b27b719e537f4d6 | Android | Successful | 0000 | 10.0.2.15 | 88
+MonitorActionLog |2023-05-25 | 13:36:16 |  0982941149 | 3 | 3095 | LIKE | 4cc50df6c684472484370744ebcc4fbb | Android | Successful | 0000 | 10.0.2.15 | 3114
+MonitorActionLog |2023-05-25 | 13:36:18 |  0982941149 | 3 | 3095 | GET_USER_INFO_NEW | 0bc91b43ebf04038ba3340f86dc20fd4 | Android | Successful | 0000 | 10.0.2.15 | 95
+MonitorActionLog |2023-05-25 | 13:36:18 |  0982941149 | 3 | 3095 | MYPOST | c9504b4133e24e61b815cc9d4cea563a | Android | Successful | 0000 | 10.0.2.15 | 199
+MonitorActionLog |2023-05-25 | 13:36:21 |  0982941149 | 3 | 3095 | GET_USER_INFO_NEW | 7440ef7e2c1f4112be8feb7989dcb059 | Android | Successful | 0000 | 10.0.2.15 | 92
+MonitorActionLog |2023-05-25 | 13:36:21 |  0982941149 | 3 | 3095 | MYPOST | 2ab0a3e1ec884af29bf11b9493a80732 | Android | Successful | 0000 | 10.0.2.15 | 200
+MonitorActionLog |2023-05-25 | 13:36:24 |  0982941149 | 3 | 3095 | GET_USER_INFO_NEW | 7d417a86127748ad899ee201c06d2781 | Android | Successful | 0000 | 10.0.2.15 | 92
+MonitorActionLog |2023-05-25 | 13:36:24 |  0982941149 | 3 | 3095 | MYPOST | 31c447eb1fb74d16881efcdfd9c7f46e | Android | Successful | 0000 | 10.0.2.15 | 203
+MonitorActionLog |2023-05-25 | 13:36:25 |  0982941149 | 3 | 3095 | GET_USER_INFO_NEW | 7ba41c023ef2454cb22e6ab640bbb14b | Android | Successful | 0000 | 10.0.2.15 | 88
+MonitorActionLog |2023-05-25 | 13:36:25 |  0982941149 | 3 | 3095 | MYPOST | 1cb3ff1104ca4d07870696de33048e9a | Android | Successful | 0000 | 10.0.2.15 | 197
+MonitorActionLog |2023-05-25 | 13:36:27 |  0982941149 | 3 | 3095 | GET_USER_INFO_NEW | c9522b443dd64b9e92f3ead3983844d7 | Android | Successful | 0000 | 10.0.2.15 | 91
+MonitorActionLog |2023-05-25 | 13:36:27 |  0982941149 | 3 | 3095 | MYPOST | e12fdb8ab67741b9a042215238445455 | Android | Successful | 0000 | 10.0.2.15 | 228
+MonitorActionLog |2023-05-25 | 13:36:28 |  0982941149 | 3 | 3095 | GET_USER_INFO_NEW | ee4231456c8c44f49b319a3295793e08 | Android | Successful | 0000 | 10.0.2.15 | 98
+MonitorActionLog |2023-05-25 | 13:36:29 |  0982941149 | 3 | 3095 | MYPOST | 0be54819f4ae432ea26f4b4d711c70ee | Android | Successful | 0000 | 10.0.2.15 | 210
+MonitorActionLog |2023-05-25 | 13:36:30 |  0982941149 | 3 | 3095 | GET_COMMENTS | 4bdf84d4c10e4937a1a7b1425e69861f | Android | Successful | 0000 | 10.0.2.15 | 91
+MonitorActionLog |2023-05-25 | 13:36:30 |  0982941149 | 3 | 3095 | GET_POST_DETAIL | 924acac92c3842dabe578b7094066942 | Android | Successful | 0000 | 10.0.2.15 | 106
+MonitorActionLog |2023-05-25 | 13:36:32 |  0982941149 | 3 | 3095 | GET_ADMIN_PIN_LIST | c431d603278b43f6ab495254d92fa5f3 | Android | Successful | 0000 | 10.0.2.15 | 240
+MonitorActionLog |2023-05-25 | 13:36:32 |  0982941149 | 3 | 3095 | NEWSFEED | 695b7e65de3944cd8b3bb978b3312db8 | Android | Successful | 0000 | 10.0.2.15 | 364
+MonitorActionLog |2023-05-25 | 13:36:33 |  0982941149 | 3 | 3095 | GET_BALANCES | 81c6c4ffd9d14537a9699473e64c44b7 | Android | Successful | 0000 | 10.0.2.15 | 84
+MonitorActionLog |2023-05-25 | 13:36:33 |  0982941149 | 3 | 3095 | GET_USER_INFO | 427c312460f5492489652bfc7ad82238 | Android | Successful | 0000 | 10.0.2.15 | 77
+MonitorActionLog |2023-05-25 | 13:36:34 |  0982941149 | 3 | 3095 | GET_USER_INFO | c4e7337b23954cbab888a5ba78231a2b | Android | Successful | 0000 | 10.0.2.15 | 81
+MonitorActionLog |2023-05-25 | 13:36:40 |  0982941149 | 3 | 3095 | GET_USER_INFO | 8edb26e6119345f196fdde53faf0427e | Android | Successful | 0000 | 10.0.2.15 | 80
+MonitorActionLog |2023-05-25 | 13:38:04 |  0982941149 | 3 | 3095 | GET_USER_INFO | 52a601a1a0484a0bb4e6950531fecfd2 | Android | Successful | 0000 | 10.0.2.15 | 79
+MonitorActionLog |2023-05-25 | 13:38:05 |  0982941149 | 3 | 3095 | UPLOAD_USER_AVATAR | 2511f787226340e4a4b276d22287307c | Android | Successful | 0000 | 10.0.2.15 | 86
+MonitorActionLog |2023-05-25 | 13:38:06 |  0982941149 | 3 | 3095 | GET_USER_INFO | 933c721e23844bf9aee07aace205d9a9 | Android | Successful | 0000 | 10.0.2.15 | 81
+MonitorActionLog |2023-05-25 | 13:38:07 |  0982941149 | 3 | 3095 | UPDATE_USER_INFO | bd76f12169a14969b5c8348a3f64a4c6 | Android | Successful | 0000 | 10.0.2.15 | 91
+MonitorActionLog |2023-05-25 | 13:38:09 |  0982941149 | 3 | 3095 | GET_BALANCES | 06a02613cbe44d9380679a110e1f87e7 | Android | Successful | 0000 | 10.0.2.15 | 78
+MonitorActionLog |2023-05-25 | 13:38:09 |  0982941149 | 3 | 3095 | GET_USER_INFO | dcd77cc9fae3433f93a1464c6c72ae36 | Android | Successful | 0000 | 10.0.2.15 | 81
+MonitorActionLog |2023-05-25 | 13:38:11 |  0982941149 | 3 | 3095 | GET_USER_INFO_NEW | d852b6d86fe242caa7ab6914ed722f33 | Android | Successful | 0000 | 10.0.2.15 | 105
+MonitorActionLog |2023-05-25 | 13:38:12 |  0982941149 | 3 | 3095 | GET_ADMIN_PIN_LIST | b6e710e48ec1419b9292684fb2de9b77 | Android | Successful | 0000 | 10.0.2.15 | 167
+MonitorActionLog |2023-05-25 | 13:38:12 |  0982941149 | 3 | 3095 | NEWSFEED | 802709a99ea64477a7074deda8f63885 | Android | Successful | 0000 | 10.0.2.15 | 402
+MonitorActionLog |2023-05-25 | 13:38:13 |  0982941149 | 3 | 3095 | GET_POST_DETAIL | 2086e75842224faca758327a9ba0811b | Android | Successful | 0000 | 10.0.2.15 | 96
+MonitorActionLog |2023-05-25 | 13:38:13 |  0982941149 | 3 | 3095 | GET_COMMENTS | e386fb7cf26c405f97bc2ce37310b50a | Android | Successful | 0000 | 10.0.2.15 | 94
+MonitorActionLog |2023-05-25 | 13:39:26 |  null | null | null | LOGIN | 2177B2C1-6B58-4656-92EC-94D1D47D314C | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 275
+MonitorActionLog |2023-05-25 | 13:39:26 |  0972730191 | 3 | 2883 | REG_FCM | DF38B453-CE27-48A8-8C82-9CB631342186 | IOS | Successful | 0000 | 172.16.13.160 | 68
+MonitorActionLog |2023-05-25 | 13:39:26 |  0972730191 | 3 | 2883 | GET_USER_INFO | FF30EE2D-DB8D-4777-A131-0FA878322495 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 87
+MonitorActionLog |2023-05-25 | 13:39:28 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | E7611508-61A3-4DD3-993C-9826616DD157 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 135
+MonitorActionLog |2023-05-25 | 13:39:28 |  0972730191 | 3 | 2883 | GET_REMINDER | F57C0F25-A832-4E89-8876-7945ABA20C5A | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 150
+MonitorActionLog |2023-05-25 | 13:39:28 |  0972730191 | 3 | 2883 | GET_BALANCES | D20838E7-3864-4503-9D4E-392B22FE902B | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 162
+MonitorActionLog |2023-05-25 | 13:39:28 |  0972730191 | 3 | 2883 | GET_BANNER_LIST | F55A7EBF-422A-4F0B-86D4-E16F0275C7A0 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 181
+MonitorActionLog |2023-05-25 | 13:39:28 |  0972730191 | 3 | 2883 | GET_HOME_OBJECT | 1E8CB68D-D0BB-4396-96CA-A894B11109EB | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 190
+MonitorActionLog |2023-05-25 | 13:39:30 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | 9D7B1455-EA6A-498B-9D79-10D3AD1385EC | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 95
+MonitorActionLog |2023-05-25 | 13:39:30 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | 8FCE4663-25E2-48F0-93F2-69F196A57187 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 107
+MonitorActionLog |2023-05-25 | 13:39:30 |  0972730191 | 3 | 2883 | GET_ADMIN_PIN_LIST | 11D712E4-C1B1-47BE-B020-A4399ECF55FD | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 156
+MonitorActionLog |2023-05-25 | 13:39:31 |  0972730191 | 3 | 2883 | NEWSFEED | 1CB55239-9142-4C85-BB12-934E71AE6497 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 384
+MonitorActionLog |2023-05-25 | 13:39:42 |  0972730191 | 3 | 2883 | GET_COMPANY_POST | 999E34AB-7888-4898-86F4-A77537C14BC8 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 240
+MonitorActionLog |2023-05-25 | 13:39:49 |  0972730191 | 3 | 2883 | MYPOST | E0FEBECB-0EB9-4766-9D1F-5F23AB3FEE78 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 280
+MonitorActionLog |2023-05-25 | 13:39:52 |  0972730191 | 3 | 2883 | GET_COMPANY_POST | 0E701A22-1C1B-4F8B-9539-76D6FEA99CF5 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 238
+MonitorActionLog |2023-05-25 | 13:39:55 |  0972730191 | 3 | 2883 | MYPOST | 15BED580-52DA-4313-ACCC-F0F389D8DB72 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 263
+MonitorActionLog |2023-05-25 | 13:40:00 |  0972730191 | 3 | 2883 | GET_COMPANY_POST | C715125C-DD59-4F34-96C3-B5AC9D179A45 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 227
+MonitorActionLog |2023-05-25 | 13:41:44 |  0982941149 | 3 | 3095 | GET_POST_DETAIL | 1f2af9f876c64f7a95c55c450597d73f | Android | Successful | 0000 | 10.0.2.15 | 114
+MonitorActionLog |2023-05-25 | 13:41:44 |  0982941149 | 3 | 3095 | GET_COMMENTS | b1769b148a1843f0a7c836826c504b6f | Android | Successful | 0000 | 10.0.2.15 | 106
+MonitorActionLog |2023-05-25 | 13:44:41 |  null | null | null | GET_SECRET_KEY | 27E0405F-60F9-48D5-B94E-A701FF959716 | IOS | SUCCESS | 0000 | 172.16.13.160 | 317
+MonitorActionLog |2023-05-25 | 13:44:42 |  null | null | null | GET_VERSIONS | 36F39E9D-15F0-4DCE-A21B-AA11BCCCBE13 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 48
+MonitorActionLog |2023-05-25 | 13:44:42 |  null | null | null | PHONE_CHECK | A436FE94-EA03-4137-A769-9C9F777F6A43 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 92
+MonitorActionLog |2023-05-25 | 13:44:52 |  null | null | null | LOGIN | 7600C893-416D-4948-92AB-87094AB994FB | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 280
+MonitorActionLog |2023-05-25 | 13:44:52 |  0972730191 | 3 | 2883 | REG_FCM | 2FF55FE0-61D2-47F2-B05B-A5705943F0DF | IOS | Successful | 0000 | 172.16.13.160 | 66
+MonitorActionLog |2023-05-25 | 13:44:52 |  0972730191 | 3 | 2883 | GET_USER_INFO | 0B03F896-A4D6-4874-BAE2-58FD9D0282B1 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 95
+MonitorActionLog |2023-05-25 | 13:44:54 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | 35A7476C-6C96-4D45-8063-0852E1BF3B6B | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 127
+MonitorActionLog |2023-05-25 | 13:44:54 |  0972730191 | 3 | 2883 | GET_REMINDER | E84D9CF7-AB89-4633-A3E3-9A5E803505E9 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 138
+MonitorActionLog |2023-05-25 | 13:44:54 |  0972730191 | 3 | 2883 | GET_BALANCES | FF14E7B7-FD2C-484A-8999-04D2AC1C38A3 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 169
+MonitorActionLog |2023-05-25 | 13:44:54 |  0972730191 | 3 | 2883 | GET_BANNER_LIST | FBDC2DC0-B667-4E5D-934E-F71460F53BC3 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 177
+MonitorActionLog |2023-05-25 | 13:44:54 |  0972730191 | 3 | 2883 | GET_HOME_OBJECT | 86587097-E11C-4BA4-B4D7-BFD1EB9034AC | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 186
+MonitorActionLog |2023-05-25 | 13:44:57 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | 0EBF4D36-59A8-47B8-825B-71418A616080 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 99
+MonitorActionLog |2023-05-25 | 13:44:57 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | 92CC7B35-F7E4-400F-9BD6-52D82D63330E | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 110
+MonitorActionLog |2023-05-25 | 13:44:57 |  0972730191 | 3 | 2883 | GET_ADMIN_PIN_LIST | D880FC24-CD6E-4C18-86FC-54B3708260B2 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 150
+MonitorActionLog |2023-05-25 | 13:44:57 |  0972730191 | 3 | 2883 | NEWSFEED | 554E5EF2-332A-4618-93AE-70930CAFC755 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 386
+MonitorActionLog |2023-05-25 | 13:45:00 |  0972730191 | 3 | 2883 | MYPOST | 4545C1C3-6A48-40DF-B145-9D61229F8934 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 263
+MonitorActionLog |2023-05-25 | 13:45:03 |  0972730191 | 3 | 2883 | GET_COMPANY_POST | AA8EB291-6155-4D0C-8054-F83D4C37FA2F | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 225
+MonitorActionLog |2023-05-25 | 13:45:06 |  0972730191 | 3 | 2883 | MYPOST | 889A04A9-6411-4AC1-BD94-A432E68388CC | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 257
+MonitorActionLog |2023-05-25 | 13:46:25 |  null | null | null | GET_SECRET_KEY | 855F5C2E-C3D2-438E-9BA8-B4532D0AC64F | IOS | SUCCESS | 0000 | 172.16.13.160 | 315
+MonitorActionLog |2023-05-25 | 13:46:25 |  null | null | null | GET_VERSIONS | CA7488D2-A0C4-444C-9B90-D043B75845C3 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 51
+MonitorActionLog |2023-05-25 | 13:46:25 |  null | null | null | PHONE_CHECK | E1099964-8D4A-425C-83A1-4046E78572E6 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 80
+MonitorActionLog |2023-05-25 | 13:46:33 |  null | null | null | LOGIN | 29F80712-1D0A-435B-9AC6-225AD12D8935 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 258
+MonitorActionLog |2023-05-25 | 13:46:34 |  0972730191 | 3 | 2883 | REG_FCM | DA8F14CB-16C2-4B93-86F1-B1716DD75DBC | IOS | Successful | 0000 | 172.16.13.160 | 60
+MonitorActionLog |2023-05-25 | 13:46:34 |  0972730191 | 3 | 2883 | GET_USER_INFO | 689C27CB-D0FA-4EA5-99A7-CD06FB36A3B4 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 85
+MonitorActionLog |2023-05-25 | 13:46:36 |  0972730191 | 3 | 2883 | GET_REMINDER | C459AFA0-B1F0-40D7-B4F8-048FF91E1BA8 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 130
+MonitorActionLog |2023-05-25 | 13:46:36 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | 79B83D71-2EA5-432C-B231-7E20248149CC | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 143
+MonitorActionLog |2023-05-25 | 13:46:36 |  0972730191 | 3 | 2883 | GET_BALANCES | 72D16CCB-3154-45C3-82C1-0696EFC17558 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 166
+MonitorActionLog |2023-05-25 | 13:46:36 |  0972730191 | 3 | 2883 | GET_BANNER_LIST | 8F337A0E-31D1-47B9-B96F-581C672D6F64 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 174
+MonitorActionLog |2023-05-25 | 13:46:36 |  0972730191 | 3 | 2883 | GET_HOME_OBJECT | 07246CFB-9FB9-48DB-AF26-E1A93449A37C | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 181
+MonitorActionLog |2023-05-25 | 13:47:48 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | 2E345836-2370-4350-B904-F58B5F2F3589 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 101
+MonitorActionLog |2023-05-25 | 13:47:48 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | E9CA69B5-0BBA-459D-863A-C12F1FF982E5 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 111
+MonitorActionLog |2023-05-25 | 13:47:48 |  0972730191 | 3 | 2883 | GET_ADMIN_PIN_LIST | F2B457BB-576C-4F57-8984-A541DF30E912 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 175
+MonitorActionLog |2023-05-25 | 13:47:48 |  0972730191 | 3 | 2883 | NEWSFEED | 62D67142-7C70-4726-8313-2B4B5E2D1D86 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 410
+MonitorActionLog |2023-05-25 | 13:47:51 |  0972730191 | 3 | 2883 | MYPOST | 9A0A818F-C3AD-4615-BB3F-F9CE03DA56C8 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 271
+MonitorActionLog |2023-05-25 | 13:47:54 |  0972730191 | 3 | 2883 | GET_COMPANY_POST | 6BBE444F-25B1-45FE-8E13-FAE59FD1C3D3 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 249
+MonitorActionLog |2023-05-25 | 13:47:58 |  0972730191 | 3 | 2883 | MYPOST | F7A82240-47AE-4157-B2D5-1AFF58527826 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 271
+MonitorActionLog |2023-05-25 | 13:48:01 |  0972730191 | 3 | 2883 | GET_COMPANY_POST | FB136FCC-E7EA-455F-98A5-1EAE33D48665 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 241
+MonitorActionLog |2023-05-25 | 13:48:45 |  null | null | null | GET_SECRET_KEY | 69A4980B-1B95-4BA7-8838-EA132641D84A | IOS | SUCCESS | 0000 | 172.16.13.160 | 314
+MonitorActionLog |2023-05-25 | 13:48:45 |  null | null | null | GET_VERSIONS | 27DE4D04-A3A0-476C-89D8-56C5D15FF4A7 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 52
+MonitorActionLog |2023-05-25 | 13:48:45 |  null | null | null | PHONE_CHECK | 93F6DFFF-8C7E-40B0-9AE5-2EB5C4E5D2FD | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 78
+MonitorActionLog |2023-05-25 | 13:48:50 |  null | null | null | LOGIN | 7B80A74E-C5AB-4106-89C5-A4D30289D9A9 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 275
+MonitorActionLog |2023-05-25 | 13:48:50 |  0972730191 | 3 | 2883 | REG_FCM | 6CE89E7F-9D14-4876-97BA-E0FC8CABAAF1 | IOS | Successful | 0000 | 172.16.13.160 | 69
+MonitorActionLog |2023-05-25 | 13:48:50 |  0972730191 | 3 | 2883 | GET_USER_INFO | F61C120E-5137-4140-B945-0406EAFBC1D1 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 85
+MonitorActionLog |2023-05-25 | 13:48:52 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | 9DB403D5-7F27-4A27-AF65-B15A018C79C3 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 125
+MonitorActionLog |2023-05-25 | 13:48:52 |  0972730191 | 3 | 2883 | GET_REMINDER | 45C14402-65A6-4540-953D-48E2599BFB58 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 133
+MonitorActionLog |2023-05-25 | 13:48:52 |  0972730191 | 3 | 2883 | GET_BALANCES | D66C5802-1029-479B-BBF4-284CB3E80E4F | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 151
+MonitorActionLog |2023-05-25 | 13:48:52 |  0972730191 | 3 | 2883 | GET_HOME_OBJECT | 9A1F795A-7DFE-4BA2-8C90-0A2A5BC80405 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 166
+MonitorActionLog |2023-05-25 | 13:48:52 |  0972730191 | 3 | 2883 | GET_BANNER_LIST | 6AC467D3-155A-4AB7-8E98-439F7BC7EC89 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 176
+MonitorActionLog |2023-05-25 | 13:48:53 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | 9459C650-8256-4A00-95DC-C9B5CD57FEF5 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 101
+MonitorActionLog |2023-05-25 | 13:48:53 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | B0A9A885-905E-455E-82F2-8B5FD63E84D4 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 110
+MonitorActionLog |2023-05-25 | 13:48:54 |  0972730191 | 3 | 2883 | GET_ADMIN_PIN_LIST | 6F63CB56-76EC-4239-9BC8-AF87E6C53453 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 156
+MonitorActionLog |2023-05-25 | 13:48:54 |  0972730191 | 3 | 2883 | NEWSFEED | 6D5139BD-BF80-43BB-85B5-AD863E1203D3 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 379
+MonitorActionLog |2023-05-25 | 13:48:56 |  0972730191 | 3 | 2883 | MYPOST | DD86416C-4A43-4D1C-8655-FDC847C56CB3 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 277
+MonitorActionLog |2023-05-25 | 13:48:59 |  0972730191 | 3 | 2883 | GET_COMPANY_POST | D4279C6C-E222-4F7D-B9AB-F8FB5A10453E | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 281
+MonitorActionLog |2023-05-25 | 13:50:14 |  null | null | null | GET_SECRET_KEY | FB07F15F-CA77-4F39-81C6-94F234FD2440 | IOS | SUCCESS | 0000 | 172.16.13.160 | 321
+MonitorActionLog |2023-05-25 | 13:50:14 |  null | null | null | GET_VERSIONS | 4C8D3409-DE81-48E9-8364-DE942532ABD7 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 50
+MonitorActionLog |2023-05-25 | 13:50:14 |  null | null | null | PHONE_CHECK | 79BF2E10-FD37-41C0-B14E-F0A4BB3B4C13 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 84
+MonitorActionLog |2023-05-25 | 13:50:20 |  null | null | null | LOGIN | E79683AE-519F-4769-BF17-E653E268B05E | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 266
+MonitorActionLog |2023-05-25 | 13:50:20 |  0972730191 | 3 | 2883 | REG_FCM | 3323FA08-50B3-486E-B325-1B48A7624FE2 | IOS | Successful | 0000 | 172.16.13.160 | 64
+MonitorActionLog |2023-05-25 | 13:50:20 |  0972730191 | 3 | 2883 | GET_USER_INFO | 8F944BF2-CE37-47D7-AC94-B81639868357 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 98
+MonitorActionLog |2023-05-25 | 13:50:21 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | AAB28216-213B-4EDC-919B-81D1140DEEEE | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 119
+MonitorActionLog |2023-05-25 | 13:50:21 |  0972730191 | 3 | 2883 | GET_BALANCES | 22CD0477-D4DC-4B6A-A155-FA30F3E57673 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 135
+MonitorActionLog |2023-05-25 | 13:50:21 |  0972730191 | 3 | 2883 | GET_REMINDER | D9A8ED24-4980-46A5-991C-EC2D7AA27CDE | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 145
+MonitorActionLog |2023-05-25 | 13:50:21 |  0972730191 | 3 | 2883 | GET_BANNER_LIST | C9AF1CCD-4FC5-48C9-A3F3-69786EEE942D | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 170
+MonitorActionLog |2023-05-25 | 13:50:21 |  0972730191 | 3 | 2883 | GET_HOME_OBJECT | D2A3F1D4-5331-4ABC-BAC6-3B8CA8160497 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 179
+MonitorActionLog |2023-05-25 | 13:50:28 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | F01B082C-C561-495B-BEB9-1E24CEF1B898 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 103
+MonitorActionLog |2023-05-25 | 13:50:28 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | DBC8A19F-8B4C-4437-A39B-3C3E5FE14F82 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 111
+MonitorActionLog |2023-05-25 | 13:50:28 |  0972730191 | 3 | 2883 | GET_ADMIN_PIN_LIST | EA1D281C-40FB-4344-92F8-53EFD686D528 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 167
+MonitorActionLog |2023-05-25 | 13:50:28 |  0972730191 | 3 | 2883 | NEWSFEED | 8DF46F1A-374F-42A7-BC93-D0A24E680172 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 393
+MonitorActionLog |2023-05-25 | 13:50:32 |  0972730191 | 3 | 2883 | MYPOST | FD197C0C-DBC4-4D5C-AF32-1336E1D1894C | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 277
+MonitorActionLog |2023-05-25 | 13:50:35 |  0972730191 | 3 | 2883 | GET_COMPANY_POST | 69B655AC-039F-4F6C-A2FA-D032E1D5B601 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 235
+MonitorActionLog |2023-05-25 | 13:50:39 |  0972730191 | 3 | 2883 | MYPOST | 34FB5474-2A8D-4D71-9CB5-2BE1242A5446 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 326
+MonitorActionLog |2023-05-25 | 13:52:02 |  null | null | null | GET_SECRET_KEY | 0CDF0991-2597-455B-82C5-D3F88FB4D18E | IOS | SUCCESS | 0000 | 172.16.13.160 | 319
+MonitorActionLog |2023-05-25 | 13:52:02 |  null | null | null | GET_VERSIONS | 9877F9D1-D23D-4C79-AC3F-05D91F2B8E0E | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 49
+MonitorActionLog |2023-05-25 | 13:52:02 |  null | null | null | PHONE_CHECK | 7825373F-A7F6-466B-A844-B56A004707B7 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 92
+MonitorActionLog |2023-05-25 | 13:52:07 |  null | null | null | LOGIN | F58AEAD6-375A-430D-A357-BFFB55FEA23A | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 281
+MonitorActionLog |2023-05-25 | 13:52:07 |  0972730191 | 3 | 2883 | REG_FCM | FEA2E0E6-4021-4DCE-A8D3-2AC3D827E99B | IOS | Successful | 0000 | 172.16.13.160 | 75
+MonitorActionLog |2023-05-25 | 13:52:08 |  0972730191 | 3 | 2883 | GET_USER_INFO | 7F1774C7-83EA-45DD-9BE0-1CD85EB05E89 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 108
+MonitorActionLog |2023-05-25 | 13:52:10 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | 4CD1B705-D1D8-41F5-BE40-649B3D92264C | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 135
+MonitorActionLog |2023-05-25 | 13:52:10 |  0972730191 | 3 | 2883 | GET_BALANCES | FC21BC3E-69C5-4BD4-82CF-97C3637867BA | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 139
+MonitorActionLog |2023-05-25 | 13:52:10 |  0972730191 | 3 | 2883 | GET_REMINDER | 0A7C37C2-F5C3-401B-9327-1D92BABD044B | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 148
+MonitorActionLog |2023-05-25 | 13:52:10 |  0972730191 | 3 | 2883 | GET_BANNER_LIST | 8741CADF-FA63-49E5-84FE-8E986CF052A7 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 172
+MonitorActionLog |2023-05-25 | 13:52:10 |  0972730191 | 3 | 2883 | GET_HOME_OBJECT | CEB2B3E3-8FF6-4623-AD93-120A82976C54 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 185
+MonitorActionLog |2023-05-25 | 13:52:11 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | 9FFE757E-B5A6-44AE-BC2C-A41F1F64D32C | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 104
+MonitorActionLog |2023-05-25 | 13:52:11 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | 41F68540-B49C-4C18-A341-B311F3195565 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 105
+MonitorActionLog |2023-05-25 | 13:52:11 |  0972730191 | 3 | 2883 | GET_ADMIN_PIN_LIST | D09C31DB-1209-4B80-A2A4-A8DACB396637 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 148
+MonitorActionLog |2023-05-25 | 13:52:11 |  0972730191 | 3 | 2883 | NEWSFEED | F38DAF93-5480-4E6C-B76F-8BCE361686C5 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 378
+MonitorActionLog |2023-05-25 | 13:52:14 |  0972730191 | 3 | 2883 | MYPOST | C2E74903-6B8D-488F-9CC0-72C0DFDC30A6 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 274
+MonitorActionLog |2023-05-25 | 13:52:16 |  0972730191 | 3 | 2883 | GET_LIST_SOCIAL | 15DD4126-5B3B-4373-BF07-9A7A7884F482 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 92
+MonitorActionLog |2023-05-25 | 13:52:16 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | 82E98269-4146-4D8A-943E-D8CD61B22722 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 104
+MonitorActionLog |2023-05-25 | 13:52:22 |  0972730191 | 3 | 2883 | GET_COMPANY_POST | CC279815-63F3-4F6C-8B9A-4CD9D9F2C6F9 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 254
+MonitorActionLog |2023-05-25 | 13:52:28 |  0972730191 | 3 | 2883 | MYPOST | 8925EA2C-87F8-4F6B-911F-F17BDC3F7CFC | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 269
+MonitorActionLog |2023-05-25 | 13:53:49 |  null | null | null | GET_SECRET_KEY | 612CE371-2C88-4EAB-A135-9A51C37E26A7 | IOS | SUCCESS | 0000 | 172.16.13.160 | 320
+MonitorActionLog |2023-05-25 | 13:53:49 |  null | null | null | GET_VERSIONS | F10E01CC-68AA-427B-802D-E6FD43BA7882 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 45
+MonitorActionLog |2023-05-25 | 13:53:49 |  null | null | null | PHONE_CHECK | 9EBED778-4B1B-408C-B2EA-46EE19694F3B | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 77
+MonitorActionLog |2023-05-25 | 13:57:00 |  null | null | null | LOGIN | 11E1664C-EB36-464C-A69A-52B35653DE3F | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 271
+MonitorActionLog |2023-05-25 | 13:57:00 |  0972730191 | 3 | 2883 | REG_FCM | 11A5BB93-7358-4774-B694-3C22EA28D021 | IOS | Successful | 0000 | 172.16.13.160 | 65
+MonitorActionLog |2023-05-25 | 13:57:00 |  0972730191 | 3 | 2883 | GET_USER_INFO | 739DC3C8-CFB1-4F16-BBB0-B57CD3454776 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 90
+MonitorActionLog |2023-05-25 | 13:57:01 |  0972730191 | 3 | 2883 | GET_BALANCES | CB0FCB1B-4B21-4581-B283-D8F76053FC7D | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 136
+MonitorActionLog |2023-05-25 | 13:57:01 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | F5CDB1AF-856A-47A5-AD4C-178B5DA9B04D | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 140
+MonitorActionLog |2023-05-25 | 13:57:01 |  0972730191 | 3 | 2883 | GET_REMINDER | 25BA9F05-C4EC-4F3D-8DD4-7DADBCDD5CA5 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 148
+MonitorActionLog |2023-05-25 | 13:57:01 |  0972730191 | 3 | 2883 | GET_BANNER_LIST | 81A80575-A4BD-49A8-AEA8-6E1F5A88BD2C | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 172
+MonitorActionLog |2023-05-25 | 13:57:01 |  0972730191 | 3 | 2883 | GET_HOME_OBJECT | 40CB4F27-CAEA-4F69-9743-81C88A2FF46F | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 181
+MonitorActionLog |2023-05-25 | 13:57:03 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | 68B25E87-6425-4302-A1EC-2FED21086562 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 99
+MonitorActionLog |2023-05-25 | 13:57:03 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | D305C674-F9B8-4809-ABEB-DCF7D626C9C6 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 110
+MonitorActionLog |2023-05-25 | 13:57:03 |  0972730191 | 3 | 2883 | GET_ADMIN_PIN_LIST | A7CF8A34-93FF-430E-B4EE-B9CA829B14B5 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 153
+MonitorActionLog |2023-05-25 | 13:57:04 |  0972730191 | 3 | 2883 | NEWSFEED | 5C2274BF-0A64-416A-B8C9-A73254B57544 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 372
+MonitorActionLog |2023-05-25 | 13:57:09 |  0972730191 | 3 | 2883 | MYPOST | 4BB68452-E415-403D-BD95-BFB2F80D3789 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 275
+MonitorActionLog |2023-05-25 | 14:00:05 |  0982941149 | 3 | 3095 | COMMENT | f86aba463b1849798f5f485128a65752 | Android | Successful | 0000 | 10.0.2.15 | 149
+MonitorActionLog |2023-05-25 | 14:00:14 |  0982941149 | 3 | 3095 | GET_COMMENTS | c22ee41a54634ee9960575dd6b9c026b | Android | Successful | 0000 | 10.0.2.15 | 92
+MonitorActionLog |2023-05-25 | 14:00:28 |  0982941149 | 3 | 3095 | COMMENT | dfaa3b691e06400785e8ab7caf5a5cca | Android | Successful | 0000 | 10.0.2.15 | 110
+MonitorActionLog |2023-05-25 | 14:00:55 |  0982941149 | 3 | 3095 | COMMENT | f33508eb04884ba6bd903ed8e65fa040 | Android | Successful | 0000 | 10.0.2.15 | 119
+MonitorActionLog |2023-05-25 | 14:16:18 |  0982941149 | 3 | 3095 | GET_COMMENTS | 8a72f3b55eaa4d88be0b7b213017d6d7 | Android | Successful | 0000 | 10.0.2.15 | 138
+MonitorActionLog |2023-05-25 | 14:16:18 |  0982941149 | 3 | 3095 | GET_POST_DETAIL | e4533245e00240098ae8f56ea60212e0 | Android | Successful | 0000 | 10.0.2.15 | 136
+MonitorActionLog |2023-05-25 | 14:19:37 |  null | null | null | GET_PRODUCT_PRICING | 927B7939-8EF1-432E-9E83-96003FB042B2 | IOS | H?t phi�n ??ng nh?p. Vui l�ng ??ng nh?p l?i | 7001 | 169.254.34.32 | 80
+MonitorActionLog |2023-05-25 | 14:19:37 |  null | null | null | GET_PRODUCT_PRICING | 2DB4917C-2C6D-4516-B4C0-90F7968A0645 | IOS | H?t phi�n ??ng nh?p. Vui l�ng ??ng nh?p l?i | 7001 | 169.254.34.32 | 110
+MonitorActionLog |2023-05-25 | 14:19:42 |  null | null | null | LOGIN | 1A492CB3-C595-4E0D-8A8C-AFD67F1F60B8 | IOS | Th�nh c�ng | 0000 | 169.254.34.32 | 287
+MonitorActionLog |2023-05-25 | 14:19:46 |  null | null | null | GET_SECRET_KEY | 1C7FED64-591F-40CD-9479-AE33FBF466C3 | IOS | SUCCESS | 0000 | 172.16.13.160 | 329
+MonitorActionLog |2023-05-25 | 14:19:46 |  null | null | null | GET_VERSIONS | 68DA4C05-4603-4F0A-9BB5-A6EBD14A5F53 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 51
+MonitorActionLog |2023-05-25 | 14:19:47 |  null | null | null | PHONE_CHECK | C98A6B86-3A37-404B-BB3F-DC0563F9A8F2 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 78
+MonitorActionLog |2023-05-25 | 14:22:58 |  0982162261 | 3 | 1830 | GET_PRODUCTS_PRICING | 4C9B4EC1-4211-42E6-979F-BE900FFE5324 | IOS | Successful | 0000 | 169.254.34.32 | 275
+MonitorActionLog |2023-05-25 | 14:22:58 |  0982162261 | 3 | 1830 | GET_PRODUCTS_PRICING | 36EBFD0A-B12D-4330-A8C0-CF4383C418FA | IOS | Successful | 0000 | 169.254.34.32 | 297
+MonitorActionLog |2023-05-25 | 14:32:14 |  null | null | null | GET_SECRET_KEY | 17A955F2-8871-4352-88FE-0FA9EF6883AF | IOS | SUCCESS | 0000 | 172.16.13.203 | 338
+MonitorActionLog |2023-05-25 | 14:32:14 |  null | null | null | GET_VERSIONS | CA958382-1111-4C6D-A686-744107AF1883 | IOS | Successful | 0000 | 172.16.13.203 | 52
+MonitorActionLog |2023-05-25 | 14:32:15 |  null | null | null | PHONE_CHECK | 03F479D3-D0AA-475A-900F-65F901A58D30 | IOS | Successful | 0000 | 172.16.13.203 | 85
+MonitorActionLog |2023-05-25 | 14:32:16 |  null | null | null | LOGIN_BIOMETRIC | 8F6A6AAB-72E7-4685-8C6B-FACDEA96E696 | IOS | Successful | 0000 | 172.16.13.203 | 165
+MonitorActionLog |2023-05-25 | 14:32:17 |  0944101190 | 3 | 2921 | REG_FCM | 8B274EB3-E352-4C9E-9476-AC824E424E30 | IOS | Successful | 0000 | 172.16.13.203 | 78
+MonitorActionLog |2023-05-25 | 14:32:17 |  0944101190 | 3 | 2921 | GET_USER_INFO | 63033CC2-ACC1-44BC-BC63-1717A38001C1 | IOS | Successful | 0000 | 172.16.13.203 | 115
+MonitorActionLog |2023-05-25 | 14:32:18 |  0944101190 | 3 | 2921 | MAPPING_BANK_ACCOUNT | 10FE637D-6312-4E71-A50C-963ECA2D21C1 | IOS | Successful | 0000 | 172.16.13.203 | 113
+MonitorActionLog |2023-05-25 | 14:32:18 |  0944101190 | 3 | 2921 | GET_USER_INFO_NEW | 2E04F3F6-889C-4F54-9B04-725580AD7F94 | IOS | Successful | 0000 | 172.16.13.203 | 125
+MonitorActionLog |2023-05-25 | 14:32:18 |  0944101190 | 3 | 2921 | GET_ADMIN_PIN_LIST | 950478D5-0D2A-4747-B59F-A0FF09B87DCF | IOS | Successful | 0000 | 172.16.13.203 | 199
+MonitorActionLog |2023-05-25 | 14:32:18 |  0944101190 | 3 | 2921 | NEWSFEED | B5C7A2D8-1C12-49BC-8599-45932F19381F | IOS | Successful | 0000 | 172.16.13.203 | 440
+MonitorActionLog |2023-05-25 | 14:32:25 |  0944101190 | 3 | 2921 | GET_POST_DETAIL | 617A6428-ACB8-4359-AB27-C53F617EFA8F | IOS | Successful | 0000 | 172.16.13.203 | 135
+MonitorActionLog |2023-05-25 | 14:32:25 |  0944101190 | 3 | 2921 | GET_COMMENTS | F8FA28BC-5693-4490-9DAE-A91C44EE8350 | IOS | Successful | 0000 | 172.16.13.203 | 155
+MonitorActionLog |2023-05-25 | 14:32:29 |  0944101190 | 3 | 2921 | GET_COMMENTS | DFA7236E-42A6-4FDE-B075-96C95AC3CB39 | IOS | Successful | 0000 | 172.16.13.203 | 88
+MonitorActionLog |2023-05-25 | 14:39:17 |  0982162261 | 3 | 1830 | GET_REMINDER | 0AC7A199-66B9-4249-90FD-2E50C1E93880 | IOS | Th�nh c�ng | 0000 | 169.254.34.32 | 114
+MonitorActionLog |2023-05-25 | 14:39:17 |  0982162261 | 3 | 1830 | GET_BALANCES | 803A6943-F744-43AB-AFF3-7EA8EF95E442 | IOS | Th�nh c�ng | 0000 | 169.254.34.32 | 133
+MonitorActionLog |2023-05-25 | 14:39:17 |  0982162261 | 3 | 1830 | MAPPING_BANK_ACCOUNT | 1EF2E246-5622-450A-A278-97D0C73C2184 | IOS | Th�nh c�ng | 0000 | 169.254.34.32 | 138
+MonitorActionLog |2023-05-25 | 14:39:17 |  0982162261 | 3 | 1830 | GET_HOME_OBJECT | 3E6F4D8C-0747-4515-BDB2-4961D9CA0BA9 | IOS | Th�nh c�ng | 0000 | 169.254.34.32 | 151
+MonitorActionLog |2023-05-25 | 14:40:06 |  0982162261 | 3 | 1830 | BILL_GET_CATEGORY_LIST | C229BD36-D8CA-4B4C-85D2-6A9C673678A9 | IOS | Th�nh c�ng | 0000 | 169.254.34.32 | 798
+MonitorActionLog |2023-05-25 | 14:40:06 |  0982162261 | 3 | 1830 | BILL_GET_RECENT_LIST | 5D587BA3-2605-4140-82C5-66438DA70417 | IOS | Th�nh c�ng | 0000 | 169.254.34.32 | 804
+MonitorActionLog |2023-05-25 | 14:40:17 |  null | null | null | LOGIN | 1DA46500-19A9-4A70-AC79-43E22BD2966F | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 267
+MonitorActionLog |2023-05-25 | 14:40:17 |  0972730191 | 3 | 2883 | REG_FCM | B1DD7CCE-D943-433C-A562-3D79F4B87850 | IOS | Successful | 0000 | 172.16.13.160 | 59
+MonitorActionLog |2023-05-25 | 14:40:17 |  0972730191 | 3 | 2883 | GET_USER_INFO | 32DC2AD3-4463-4143-906E-9EF2313E0497 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 94
+MonitorActionLog |2023-05-25 | 14:40:19 |  0972730191 | 3 | 2883 | GET_BALANCES | DD987FEC-3A30-4E73-A2D7-7560247FDC50 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 131
+MonitorActionLog |2023-05-25 | 14:40:19 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | 23309C99-3FD8-4073-81E9-31A90EAB2DA2 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 131
+MonitorActionLog |2023-05-25 | 14:40:19 |  0972730191 | 3 | 2883 | GET_REMINDER | B1A37CF3-10BD-42CA-BC0A-CA57E7A58DBC | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 157
+MonitorActionLog |2023-05-25 | 14:40:19 |  0972730191 | 3 | 2883 | GET_HOME_OBJECT | 2F87510D-58D4-4F66-BE1D-CDF2011F5CF8 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 161
+MonitorActionLog |2023-05-25 | 14:40:19 |  0972730191 | 3 | 2883 | GET_BANNER_LIST | 6FEDAAE1-72F9-4324-BFC8-73BE9255EA8F | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 170
+MonitorActionLog |2023-05-25 | 14:40:21 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | 0888E4CF-54C7-426B-8DF2-25AC574945F0 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 99
+MonitorActionLog |2023-05-25 | 14:40:21 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | 3B9BD5A4-0235-42CC-B883-2CD9F5BECE7A | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 109
+MonitorActionLog |2023-05-25 | 14:40:21 |  0972730191 | 3 | 2883 | GET_ADMIN_PIN_LIST | 71CF4AD3-F346-476C-8756-16105211FF28 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 166
+MonitorActionLog |2023-05-25 | 14:40:21 |  0972730191 | 3 | 2883 | NEWSFEED | 4589D44F-2C93-4803-8878-E35203B80973 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 408
+MonitorActionLog |2023-05-25 | 14:40:29 |  0972730191 | 3 | 2883 | MYPOST | 8BE586AE-CFFC-4FA1-B1C7-357DEEF57ECE | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 269
+MonitorActionLog |2023-05-25 | 14:40:31 |  0972730191 | 3 | 2883 | LIKE | 9C8AC9C9-F29A-484E-936F-148BDAEE510B | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 135
+MonitorActionLog |2023-05-25 | 14:40:32 |  0972730191 | 3 | 2883 | LIKE | 1F28D011-9735-45F1-A49F-653E9AFCB314 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 151
+MonitorActionLog |2023-05-25 | 15:04:24 |  null | null | null | GET_SECRET_KEY | 2C5A8C80-BD5C-4EFC-82AB-692068E1EE21 | IOS | SUCCESS | 0000 | 172.16.13.160 | 329
+MonitorActionLog |2023-05-25 | 15:04:24 |  null | null | null | GET_VERSIONS | 18EE0F2E-4D6D-40E9-9541-FD56BCF21E95 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 51
+MonitorActionLog |2023-05-25 | 15:04:25 |  null | null | null | PHONE_CHECK | D3E02CC7-A889-4DC8-87B5-62375BF12B56 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 81
+MonitorActionLog |2023-05-25 | 15:04:29 |  null | null | null | LOGIN | FEFD775B-F7CE-4231-932D-287185924AB7 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 272
+MonitorActionLog |2023-05-25 | 15:04:29 |  0972730191 | 3 | 2883 | REG_FCM | ECECC21B-D084-4039-BBE1-FECD7931473C | IOS | Successful | 0000 | 172.16.13.160 | 72
+MonitorActionLog |2023-05-25 | 15:04:29 |  0972730191 | 3 | 2883 | GET_USER_INFO | 1BB8B8D8-3B1C-4EE3-9A20-1C64035CAF84 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 94
+MonitorActionLog |2023-05-25 | 15:04:30 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | 2D11D134-502A-4548-B149-17EC862A6D89 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 128
+MonitorActionLog |2023-05-25 | 15:04:30 |  0972730191 | 3 | 2883 | GET_BALANCES | 5757521D-DC74-430A-B854-A8952F5C9FCA | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 150
+MonitorActionLog |2023-05-25 | 15:04:30 |  0972730191 | 3 | 2883 | GET_REMINDER | 4DC4EB24-8A8E-4D73-845C-4C2E7697420E | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 147
+MonitorActionLog |2023-05-25 | 15:04:30 |  0972730191 | 3 | 2883 | GET_BANNER_LIST | 2DB7E775-9700-4D4C-9A4F-B031ED0A1CE8 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 173
+MonitorActionLog |2023-05-25 | 15:04:30 |  0972730191 | 3 | 2883 | GET_HOME_OBJECT | 1FFF6BA8-CD01-416C-99F1-BF5F9A9707AF | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 178
+MonitorActionLog |2023-05-25 | 15:04:32 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | 685BAAAE-33DD-4388-A215-E3B990D74504 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 97
+MonitorActionLog |2023-05-25 | 15:04:33 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | 3E650990-D81B-465C-8907-E7A85B096C1E | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 123
+MonitorActionLog |2023-05-25 | 15:04:33 |  0972730191 | 3 | 2883 | GET_ADMIN_PIN_LIST | EC534796-7013-4DFB-B502-CFD9FEA6447E | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 171
+MonitorActionLog |2023-05-25 | 15:04:33 |  0972730191 | 3 | 2883 | NEWSFEED | DC97EABB-4A5F-42CF-9CF3-E88B0A20B0E2 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 395
+MonitorActionLog |2023-05-25 | 15:04:35 |  0972730191 | 3 | 2883 | MYPOST | 6D7E8EF7-BADA-49AE-BD05-ACF5105BC5CE | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 260
+MonitorActionLog |2023-05-25 | 15:07:26 |  null | null | null | GET_SECRET_KEY | 343086D6-E359-48EE-9546-131545308551 | IOS | SUCCESS | 0000 | 172.16.13.160 | 334
+MonitorActionLog |2023-05-25 | 15:07:26 |  null | null | null | GET_VERSIONS | F70FE0C9-59CD-40AE-A566-97C73058D698 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 52
+MonitorActionLog |2023-05-25 | 15:07:27 |  null | null | null | PHONE_CHECK | C65FD41C-08A0-4604-AC66-687B2B83DEFD | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 77
+MonitorActionLog |2023-05-25 | 15:07:31 |  null | null | null | LOGIN | 2428F789-5E5D-4226-ABE1-20FE54BA6312 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 282
+MonitorActionLog |2023-05-25 | 15:07:31 |  0972730191 | 3 | 2883 | REG_FCM | B1059ABF-CD41-4AF9-A16C-98BE2E5465D4 | IOS | Successful | 0000 | 172.16.13.160 | 62
+MonitorActionLog |2023-05-25 | 15:07:31 |  0972730191 | 3 | 2883 | GET_USER_INFO | BBE48793-8CDB-4847-81FD-459730EFD748 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 85
+MonitorActionLog |2023-05-25 | 15:07:33 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | 4EEEB3CA-F8ED-42A1-9244-44AEA1760292 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 129
+MonitorActionLog |2023-05-25 | 15:07:33 |  0972730191 | 3 | 2883 | GET_REMINDER | CBCE001B-CD69-44BE-B76B-AD431D1F3A10 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 147
+MonitorActionLog |2023-05-25 | 15:07:33 |  0972730191 | 3 | 2883 | GET_BALANCES | 48D8BA03-6C07-43C0-8BA3-23417F0F9040 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 163
+MonitorActionLog |2023-05-25 | 15:07:33 |  0972730191 | 3 | 2883 | GET_HOME_OBJECT | 1BD4FA6E-51DF-4ADB-939E-0FB375C80821 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 161
+MonitorActionLog |2023-05-25 | 15:07:33 |  0972730191 | 3 | 2883 | GET_BANNER_LIST | FD69DC0E-BA44-4E25-8C26-87132B1158FA | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 178
+MonitorActionLog |2023-05-25 | 15:07:34 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | 924C6EFD-BF18-4A16-8026-E07A24AA1418 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 96
+MonitorActionLog |2023-05-25 | 15:07:34 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | FF8A09F6-6330-4384-AEBA-762674D650FB | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 110
+MonitorActionLog |2023-05-25 | 15:07:34 |  0972730191 | 3 | 2883 | GET_ADMIN_PIN_LIST | 24217A57-CAF3-4029-846A-3E78BD864A4E | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 166
+MonitorActionLog |2023-05-25 | 15:07:34 |  0972730191 | 3 | 2883 | NEWSFEED | 1A7C5551-11B6-4EFD-A2B2-247BE399B815 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 387
+MonitorActionLog |2023-05-25 | 15:07:36 |  0972730191 | 3 | 2883 | MYPOST | E4A9F5B1-BA33-4353-B05B-AF3495D6E553 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 257
+MonitorActionLog |2023-05-25 | 15:07:40 |  0972730191 | 3 | 2883 | GET_LIST_SOCIAL | D692F556-B45B-4DE3-8B7E-3F1EFD8157D9 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 93
+MonitorActionLog |2023-05-25 | 15:07:40 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | 961CA427-2520-4929-8E60-11A39F0F9F14 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 101
+MonitorActionLog |2023-05-25 | 15:07:44 |  0972730191 | 3 | 2883 | GET_COMPANY_POST | 4149AC31-024F-4C3E-8892-3BFEE064FC15 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 235
+MonitorActionLog |2023-05-25 | 15:07:53 |  0972730191 | 3 | 2883 | MYPOST | 4D69D1B0-3CAD-4075-A7E2-742B4CA93F69 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 274
+MonitorActionLog |2023-05-25 | 15:08:00 |  0972730191 | 3 | 2883 | GET_COMPANY_POST | A5FE1BE2-D32B-4F11-9E07-D1CD602F5D3E | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 229
+MonitorActionLog |2023-05-25 | 15:08:50 |  null | null | null | GET_SECRET_KEY | CB93D087-837C-4CD5-A28F-F8F4B789AA7D | IOS | SUCCESS | 0000 | 172.16.13.160 | 312
+MonitorActionLog |2023-05-25 | 15:08:51 |  null | null | null | GET_VERSIONS | 15889CC9-B385-4A75-BFB4-2B66EA3F2D98 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 57
+MonitorActionLog |2023-05-25 | 15:08:51 |  null | null | null | PHONE_CHECK | F713807C-6E76-4624-985C-7AA9E8981505 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 77
+MonitorActionLog |2023-05-25 | 15:09:01 |  null | null | null | LOGIN | E0FB9D45-9EB1-412D-B6A9-A932CA7C5547 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 278
+MonitorActionLog |2023-05-25 | 15:09:01 |  0972730191 | 3 | 2883 | REG_FCM | F7D4AE51-F3EE-4048-A83F-49FA2DE743EC | IOS | Successful | 0000 | 172.16.13.160 | 66
+MonitorActionLog |2023-05-25 | 15:09:01 |  0972730191 | 3 | 2883 | GET_USER_INFO | CB083B1E-15D2-4852-85D9-5B523347492A | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 90
+MonitorActionLog |2023-05-25 | 15:09:03 |  0972730191 | 3 | 2883 | GET_REMINDER | F76033F3-C6AB-4168-8A31-526EAD028B8C | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 131
+MonitorActionLog |2023-05-25 | 15:09:03 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | 0768B083-AD85-4A81-86F1-4B245D7B935F | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 142
+MonitorActionLog |2023-05-25 | 15:09:03 |  0972730191 | 3 | 2883 | GET_BALANCES | 74BFF6ED-3D4E-4EE1-9495-6227BB1D9FE3 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 153
+MonitorActionLog |2023-05-25 | 15:09:03 |  0972730191 | 3 | 2883 | GET_BANNER_LIST | 23D0FD3A-C939-4E14-9D1F-F53B2ECD097B | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 169
+MonitorActionLog |2023-05-25 | 15:09:03 |  0972730191 | 3 | 2883 | GET_HOME_OBJECT | 95F432C6-4FDE-49FC-A0ED-1D7F3260DB53 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 178
+MonitorActionLog |2023-05-25 | 15:09:06 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | 071F3D1B-A6E2-4200-B9A0-F00F740ED3FD | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 102
+MonitorActionLog |2023-05-25 | 15:09:06 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | 19D946CA-AB5C-4B76-826F-4FB4532DCFB1 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 105
+MonitorActionLog |2023-05-25 | 15:09:06 |  0972730191 | 3 | 2883 | GET_ADMIN_PIN_LIST | 410082F9-10AF-4101-8F8F-54B6BB819DB4 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 146
+MonitorActionLog |2023-05-25 | 15:09:06 |  0972730191 | 3 | 2883 | NEWSFEED | 7373A0FD-D7D5-41EB-A6A0-1B19752F6E82 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 362
+MonitorActionLog |2023-05-25 | 15:09:09 |  0972730191 | 3 | 2883 | MYPOST | 45C64084-4892-4139-981A-0CA03779D6D2 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 245
+MonitorActionLog |2023-05-25 | 15:09:12 |  0972730191 | 3 | 2883 | GET_COMPANY_POST | 4E6E69E7-5FE6-41EA-B58B-043DF70D35A8 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 229
+MonitorActionLog |2023-05-25 | 15:09:17 |  0972730191 | 3 | 2883 | MYPOST | C8A1AF33-D1F6-4198-BCF2-3B83FFAD2DB4 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 249
+MonitorActionLog |2023-05-25 | 15:11:16 |  null | null | null | GET_SECRET_KEY | 3863391A-BF94-45A8-826C-A4FBDF3FE551 | IOS | SUCCESS | 0000 | 172.16.13.160 | 316
+MonitorActionLog |2023-05-25 | 15:11:16 |  null | null | null | GET_VERSIONS | AF3F184B-D94E-40D9-A6CA-E3CEA4CCD9C6 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 49
+MonitorActionLog |2023-05-25 | 15:11:16 |  null | null | null | PHONE_CHECK | 0836E633-E784-4E77-8F7A-C2EB6AABB63E | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 83
+MonitorActionLog |2023-05-25 | 15:12:29 |  null | null | null | LOGIN | DEE1AB35-5CCE-477F-BBE1-5493E0CAEDAA | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 272
+MonitorActionLog |2023-05-25 | 15:12:30 |  0972730191 | 3 | 2883 | REG_FCM | 4916BEF4-9BFA-4ACB-8261-9BBC88A481A4 | IOS | Successful | 0000 | 172.16.13.160 | 55
+MonitorActionLog |2023-05-25 | 15:12:30 |  0972730191 | 3 | 2883 | GET_USER_INFO | AA144352-838A-4530-B6F1-1E648E288FF3 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 102
+MonitorActionLog |2023-05-25 | 15:12:32 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | CDA8DD91-EF53-4717-AD84-ECC5E142CA0C | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 128
+MonitorActionLog |2023-05-25 | 15:12:32 |  0972730191 | 3 | 2883 | GET_REMINDER | 599CFE1F-AC29-4BB2-AA8C-69A4FD2D87A7 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 136
+MonitorActionLog |2023-05-25 | 15:12:32 |  0972730191 | 3 | 2883 | GET_BALANCES | E45B98D0-F216-44CC-9672-84223E57653C | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 148
+MonitorActionLog |2023-05-25 | 15:12:32 |  0972730191 | 3 | 2883 | GET_BANNER_LIST | D6ADEBE7-0923-43EF-B132-1F559A1CE7FB | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 164
+MonitorActionLog |2023-05-25 | 15:12:32 |  0972730191 | 3 | 2883 | GET_HOME_OBJECT | B9AC318B-B765-446D-AE80-BB4B6BC76F41 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 172
+MonitorActionLog |2023-05-25 | 15:12:37 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | 3E312023-72BE-46F1-899E-679D11D00F86 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 111
+MonitorActionLog |2023-05-25 | 15:12:37 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | 49ED8CD2-2383-4336-94FE-3777D91AB350 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 110
+MonitorActionLog |2023-05-25 | 15:12:37 |  0972730191 | 3 | 2883 | GET_ADMIN_PIN_LIST | 74DB7B06-5E1B-4B67-ABB1-AB0BCC5810F4 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 173
+MonitorActionLog |2023-05-25 | 15:12:37 |  0972730191 | 3 | 2883 | NEWSFEED | DBE0C033-5D1A-4D2C-97EE-48E23C86914D | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 409
+MonitorActionLog |2023-05-25 | 15:12:40 |  0972730191 | 3 | 2883 | MYPOST | 05538658-7067-4082-8ADC-2369DE7605ED | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 271
+MonitorActionLog |2023-05-25 | 15:12:43 |  0972730191 | 3 | 2883 | GET_COMPANY_POST | 8A6705F7-7980-4399-8297-1274EE10010D | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 226
+MonitorActionLog |2023-05-25 | 15:19:19 |  null | null | null | GET_VERSIONS | da600629478d42bb81aca29df1fb9357 | Android | Successful | 0000 | 172.16.13.60 | 49
+MonitorActionLog |2023-05-25 | 15:19:20 |  null | null | null | GET_SECRET_KEY | 2aafef40aa0244799d1e0149cb39469d | Android | SUCCESS | 0000 | 172.16.13.60 | 317
+MonitorActionLog |2023-05-25 | 15:19:20 |  0971651512 | 3 | 2684 | PHONE_CHECK | 40d560c687814ebdb477ce56e60a15c5 | Android | Sorry, your phone number is not supported | 7303 | 172.16.13.60 | 91
+MonitorActionLog |2023-05-25 | 15:19:24 |  0971651512 | 3 | 2684 | OTP_VERIFY | d2fb9f0c11c844359e0e4ed018485898 | Android | OTP is successfully validated | 0000 | 172.16.13.60 | 77
+MonitorActionLog |2023-05-25 | 15:19:28 |  0971651512 | 3 | 2684 | REGISTER | b42fbcb899b8466a98b88ef4676ae347 | Android | ERROR | 1111 | 172.16.13.60 | 264
+MonitorActionLog |2023-05-25 | 15:23:42 |  0972730191 | 3 | 2883 | GET_LIST_SOCIAL | 18FE6417-C63C-401A-BFBF-BA66E0E5C3F1 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 102
+MonitorActionLog |2023-05-25 | 15:23:42 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | 08703553-D28E-4FCC-9BA8-93E9F79C43CD | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 115
+MonitorActionLog |2023-05-25 | 15:32:00 |  null | null | null | GET_SECRET_KEY | BB7DFCA3-12E5-4A80-A2D3-0973D9FE4B2A | IOS | SUCCESS | 0000 | 172.16.13.160 | 317
+MonitorActionLog |2023-05-25 | 15:32:00 |  null | null | null | GET_VERSIONS | D54D1B08-3DE4-40AD-9528-C31FED8ADBEE | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 47
+MonitorActionLog |2023-05-25 | 15:32:00 |  null | null | null | PHONE_CHECK | 5CC919D4-801E-4FF7-926E-E1BB92DE0A7D | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 82
+MonitorActionLog |2023-05-25 | 15:32:13 |  null | null | null | LOGIN | 6736B267-3711-4AFA-8714-CC36A39E5285 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 270
+MonitorActionLog |2023-05-25 | 15:32:13 |  0972730191 | 3 | 2883 | REG_FCM | F578DA78-7EF4-433C-BB79-BB27A3800F1A | IOS | Successful | 0000 | 172.16.13.160 | 64
+MonitorActionLog |2023-05-25 | 15:32:13 |  0972730191 | 3 | 2883 | GET_USER_INFO | F115747B-8573-4DAD-9705-FFFF61957D65 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 89
+MonitorActionLog |2023-05-25 | 15:32:15 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | 25D152B1-789A-4890-BD7C-DF27157B84C6 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 129
+MonitorActionLog |2023-05-25 | 15:32:15 |  0972730191 | 3 | 2883 | GET_REMINDER | 0CCBD8B3-70B1-4056-8CF4-247104C6C22D | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 137
+MonitorActionLog |2023-05-25 | 15:32:15 |  0972730191 | 3 | 2883 | GET_BALANCES | 0C74316C-7719-4F3D-9378-FA55EC370F1F | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 158
+MonitorActionLog |2023-05-25 | 15:32:15 |  0972730191 | 3 | 2883 | GET_BANNER_LIST | A9E7C199-2AB6-427D-B18D-2308D3C6DCEA | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 180
+MonitorActionLog |2023-05-25 | 15:32:15 |  0972730191 | 3 | 2883 | GET_HOME_OBJECT | CF0739AE-5187-4B0B-87D9-7E1EA03D4819 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 187
+MonitorActionLog |2023-05-25 | 15:32:17 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | 1AA81A67-9C80-40FE-95D5-25198C37DFE0 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 99
+MonitorActionLog |2023-05-25 | 15:32:17 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | C0061114-8EF7-4AF5-8A3A-DEE1AE0878E8 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 122
+MonitorActionLog |2023-05-25 | 15:32:17 |  0972730191 | 3 | 2883 | GET_ADMIN_PIN_LIST | FA242AC5-4CF5-4AF6-ADA2-E5A6240207F3 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 177
+MonitorActionLog |2023-05-25 | 15:32:17 |  0972730191 | 3 | 2883 | NEWSFEED | 4B79F96B-C6AC-435E-8402-009B3434301F | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 407
+MonitorActionLog |2023-05-25 | 15:32:21 |  0972730191 | 3 | 2883 | MYPOST | B7314F74-5BE1-4CDC-8500-0DA298C82BEC | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 266
+MonitorActionLog |2023-05-25 | 15:32:23 |  0972730191 | 3 | 2883 | GET_LIST_SOCIAL | 251E6623-8963-4A49-8406-82ECD17AE505 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 88
+MonitorActionLog |2023-05-25 | 15:32:23 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | D9EE03DD-3747-4A9B-8C6E-17AA9AFE234B | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 103
+MonitorActionLog |2023-05-25 | 15:32:34 |  0972730191 | 3 | 2883 | GET_LIST_POST_FILTER | 1DFF89AD-282F-471C-8931-EB5D2A80DE27 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 138
+MonitorActionLog |2023-05-25 | 15:35:20 |  null | null | null | GET_SECRET_KEY | F667E701-12B1-440F-937C-FE7D4A9BDD63 | IOS | SUCCESS | 0000 | 172.16.13.160 | 311
+MonitorActionLog |2023-05-25 | 15:35:20 |  null | null | null | GET_VERSIONS | FE3D2E4A-E2E7-4468-83FA-3DDA6BE1FE83 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 48
+MonitorActionLog |2023-05-25 | 15:35:20 |  null | null | null | PHONE_CHECK | 43530CB2-F37B-46C1-8188-EEA4E8A8C4F9 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 78
+MonitorActionLog |2023-05-25 | 15:35:44 |  null | null | null | LOGIN | 92258848-066F-4637-ADAB-560F097104F4 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 260
+MonitorActionLog |2023-05-25 | 15:35:44 |  0972730191 | 3 | 2883 | REG_FCM | 8D21D74F-2610-4AA2-A579-6849B7EC37A3 | IOS | Successful | 0000 | 172.16.13.160 | 75
+MonitorActionLog |2023-05-25 | 15:35:44 |  0972730191 | 3 | 2883 | GET_USER_INFO | 605ED608-C939-4AE4-A549-3119ED81B90B | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 103
+MonitorActionLog |2023-05-25 | 15:35:46 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | 09FD92FF-1733-4BFF-B4E8-81BFA7DE3AA2 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 127
+MonitorActionLog |2023-05-25 | 15:35:46 |  0972730191 | 3 | 2883 | GET_BALANCES | EABB0DB0-3AC7-4E89-B745-320AF26CAEFA | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 148
+MonitorActionLog |2023-05-25 | 15:35:46 |  0972730191 | 3 | 2883 | GET_REMINDER | AB194EA0-7989-495D-AD27-B8EE0A6C917C | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 149
+MonitorActionLog |2023-05-25 | 15:35:46 |  0972730191 | 3 | 2883 | GET_BANNER_LIST | 51B45506-5ED2-4012-866F-E64A928DE29A | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 178
+MonitorActionLog |2023-05-25 | 15:35:46 |  0972730191 | 3 | 2883 | GET_HOME_OBJECT | 9E3BB0F3-CB6A-40CF-AFC8-8B507BDC114B | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 183
+MonitorActionLog |2023-05-25 | 15:35:49 |  0972730191 | 3 | 2883 | MAPPING_BANK_ACCOUNT | 26EE6BFA-8CEE-4305-82B7-5659108E16E3 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 94
+MonitorActionLog |2023-05-25 | 15:35:49 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | BCFA092F-4B98-4A92-AC22-12F5622B0CB8 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 114
+MonitorActionLog |2023-05-25 | 15:35:49 |  0972730191 | 3 | 2883 | GET_ADMIN_PIN_LIST | AF1A5EA6-441A-4BD6-B3C7-95208C2DFD87 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 145
+MonitorActionLog |2023-05-25 | 15:35:49 |  0972730191 | 3 | 2883 | NEWSFEED | 75C4BBA9-89E3-4369-ADE6-D0D3288B7887 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 381
+MonitorActionLog |2023-05-25 | 15:35:52 |  0972730191 | 3 | 2883 | MYPOST | 8A16D349-AF09-40A5-BC89-2C0BE532CCA6 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 250
+MonitorActionLog |2023-05-25 | 15:35:55 |  0972730191 | 3 | 2883 | GET_LIST_SOCIAL | 54FA1C18-A4E1-4316-8878-B7E7FD49910F | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 97
+MonitorActionLog |2023-05-25 | 15:35:55 |  0972730191 | 3 | 2883 | GET_USER_INFO_NEW | 88ACE841-46AF-46DB-9999-419D5CEEA987 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 112
+MonitorActionLog |2023-05-25 | 15:36:03 |  0972730191 | 3 | 2883 | GET_LIST_POST_FILTER | 21A8238E-8118-4407-A64D-2D65CA004857 | IOS | Th�nh c�ng | 0000 | 172.16.13.160 | 91
+MonitorActionLog |2023-05-25 | 15:38:18 |  null | null | null | GET_VERSIONS | 09c6ac96f07b4a008c27145f5de51906 | Android | Successful | 0000 | 172.16.13.60 | 53
+MonitorActionLog |2023-05-25 | 15:38:19 |  null | null | null | GET_SECRET_KEY | 77c8aa325c2245759ee62c3a6d80aa4c | Android | SUCCESS | 0000 | 172.16.13.60 | 318
+MonitorActionLog |2023-05-25 | 15:38:20 |  0971651512 | 3 | 2684 | PHONE_CHECK | e8e25e7de70144dabe2abe6d55f49f1e | Android | Sorry, your phone number is not supported | 7303 | 172.16.13.60 | 95
+MonitorActionLog |2023-05-25 | 15:38:22 |  0971651512 | 3 | 2684 | OTP_VERIFY | 8fcc365da0814356b00ad10d6ccd28c3 | Android | OTP is successfully validated | 0000 | 172.16.13.60 | 80
+MonitorActionLog |2023-05-25 | 15:38:28 |  0971651512 | 3 | 2684 | REGISTER | c2f93d65d1c24d219b9abf907da119e2 | Android | ERROR | 1111 | 172.16.13.60 | 270
+MonitorActionLog |2023-05-25 | 15:38:35 |  0971651512 | 3 | 2684 | REGISTER | 2487b9a3f35c4437b11c2e41337212dd | Android | OTP already be sent, please try again after 2 minutes  | 7306 | 172.16.13.60 | 77
+MonitorActionLog |2023-05-25 | 15:38:54 |  0971651512 | 3 | 2684 | OTP_VERIFY | 762beb5500694d298986876d0877d6fd | Android | Expired OTP. Please touch Resend | 7304 | 172.16.13.60 | 75
+MonitorActionLog |2023-05-25 | 15:38:58 |  0971651512 | 3 | 2684 | OTP_VERIFY | 0cc183ceca17451f914ffea0c11e415f | Android | Expired OTP. Please touch Resend | 7304 | 172.16.13.60 | 69
+MonitorActionLog |2023-05-25 | 15:39:01 |  0971651512 | 3 | 2684 | PHONE_CHECK | cfec15a66afc441ebbb6f8fd99067a08 | Android | OTP already be sent, please try again after 2 minutes  | 7306 | 172.16.13.60 | 85
+MonitorActionLog |2023-05-25 | 15:48:41 |  0971651512 | 3 | 2684 | PHONE_CHECK | de3dfbb7d0084c9bb305fe03e617bd9f | Android | Sorry, your phone number is not supported | 7303 | 172.16.13.60 | 101
+MonitorActionLog |2023-05-25 | 15:48:44 |  0971651512 | 3 | 2684 | OTP_VERIFY | 5bb7ca73d0ef41ff85ca733a38c57b26 | Android | OTP is successfully validated | 0000 | 172.16.13.60 | 82
+MonitorActionLog |2023-05-25 | 15:48:51 |  0971651512 | 3 | 2684 | REGISTER | 1c43402792a243c881977ff36aded812 | Android | Successful | 0000 | 172.16.13.60 | 262
+MonitorActionLog |2023-05-25 | 15:48:52 |  0971651512 | 1 | 3109 | GET_BALANCES | cb0035aa249241c8bca10ef0309bed9a | Android | Successful | 0000 | 172.16.13.60 | 88
+MonitorActionLog |2023-05-25 | 15:48:52 |  0971651512 | 1 | 3109 | GET_REMINDER | 1a06163258d849c486713f7f66fe4b6f | Android | Successful | 0000 | 172.16.13.60 | 63
+MonitorActionLog |2023-05-25 | 15:48:52 |  0971651512 | 1 | 3109 | GET_BANNER_LIST | cd219d85ea9b479db583f2a0ce101588 | Android | Successful | 0000 | 172.16.13.60 | 71
+MonitorActionLog |2023-05-25 | 15:48:52 |  0971651512 | 1 | 3109 | GET_HOME_OBJECT | 88a745e97b924406959430749f7a1dcc | Android | Th�nh c�ng | 0000 | 172.16.13.60 | 106
+MonitorActionLog |2023-05-25 | 15:48:52 |  0971651512 | 1 | 3109 | GET_NEW_PROMOTION_NUMBER | 61d59caf947f447690daf0e44404cfc2 | Android | Successful | 0000 | 172.16.13.60 | 64
+MonitorActionLog |2023-05-25 | 15:48:52 |  0971651512 | 1 | 3109 | REG_FCM | 0a3b0693524843edb83385a5a0951908 | Android | Successful | 0000 | 172.16.13.60 | 63
+MonitorActionLog |2023-05-25 | 15:49:02 |  0971651512 | 1 | 3109 | MAPPING_BANK_ACCOUNT | e064085a3f39409aa4b10c1c63f8f070 | Android | Please authenticate the user verification to use this function | 7003 | 172.16.13.60 | 53
+MonitorActionLog |2023-05-25 | 15:49:16 |  0971651512 | 1 | 3109 | GET_LIST_NOTIFY | 41620de929db4a0682cef66dc905d0f2 | Android | Successful | 0000 | 172.16.13.60 | 227
+MonitorActionLog |2023-05-25 | 15:49:16 |  0971651512 | 1 | 3109 | GET_NOTIFICATION_FILTER | b82eac62d5f348ba8bcf41071d961bac | Android | Successful | 0000 | 172.16.13.60 | 63
+MonitorActionLog |2023-05-25 | 15:49:17 |  0971651512 | 1 | 3109 | GET_LIST_NOTIFY | 38fe223c02144f1ea850e736eccbebba | Android | Successful | 0000 | 172.16.13.60 | 233
+MonitorActionLog |2023-05-25 | 15:49:20 |  0971651512 | 1 | 3109 | GET_REMINDER | ff6e731bd8d140a4aab1c3776976d7d9 | Android | Successful | 0000 | 172.16.13.60 | 66
+MonitorActionLog |2023-05-25 | 15:49:21 |  0971651512 | 1 | 3109 | GET_BANNER_LIST | df4c1ae164ce4f8ca43e89bba7bd473a | Android | Successful | 0000 | 172.16.13.60 | 65
+MonitorActionLog |2023-05-25 | 15:49:21 |  0971651512 | 1 | 3109 | GET_HOME_OBJECT | baa33ad0762a49769b582ee527852d4a | Android | Th�nh c�ng | 0000 | 172.16.13.60 | 116
+MonitorActionLog |2023-05-25 | 15:49:21 |  0971651512 | 1 | 3109 | GET_BALANCES | 6c9364cf28bc4f35a1b5998f22320a9d | Android | Successful | 0000 | 172.16.13.60 | 99
+MonitorActionLog |2023-05-25 | 15:49:21 |  0971651512 | 1 | 3109 | GET_NEW_PROMOTION_NUMBER | 9f3ef6970fa54148a3f0abbd77a0b72d | Android | Successful | 0000 | 172.16.13.60 | 48
+MonitorActionLog |2023-05-25 | 15:49:28 |  0971651512 | 1 | 3109 | GET_LIST_NOTIFY | dcd798227d6346b0861c8cf69bcd2af6 | Android | Successful | 0000 | 172.16.13.60 | 195
+MonitorActionLog |2023-05-25 | 15:49:28 |  0971651512 | 1 | 3109 | GET_NOTIFICATION_FILTER | 80eff326a2d641109d84c03e55289936 | Android | Successful | 0000 | 172.16.13.60 | 60
+MonitorActionLog |2023-05-25 | 15:49:28 |  0971651512 | 1 | 3109 | GET_LIST_NOTIFY | 6a48ed77e1204d1bb2e43c1f90e5cbcb | Android | Successful | 0000 | 172.16.13.60 | 215
+MonitorActionLog |2023-05-25 | 15:49:29 |  0971651512 | 1 | 3109 | GET_LIST_NOTIFY | 3fe6a83d6dce438fb733729f163347c2 | Android | Successful | 0000 | 172.16.13.60 | 219
+MonitorActionLog |2023-05-25 | 15:49:31 |  0971651512 | 1 | 3109 | GET_LIST_NOTIFY | 1a039281487e46f7b04e3c1d3c67ab17 | Android | Successful | 0000 | 172.16.13.60 | 210
+MonitorActionLog |2023-05-25 | 15:49:32 |  0971651512 | 1 | 3109 | GET_BANNER_LIST | f16eab8197964953996aeff91a6fc13a | Android | Successful | 0000 | 172.16.13.60 | 65
+MonitorActionLog |2023-05-25 | 15:49:32 |  0971651512 | 1 | 3109 | GET_REMINDER | 09d38867e30048d6a28152ffdb02f72a | Android | Successful | 0000 | 172.16.13.60 | 66
+MonitorActionLog |2023-05-25 | 15:49:32 |  0971651512 | 1 | 3109 | GET_BALANCES | 0cc8695fc9044d1db0d39d1efa457867 | Android | Successful | 0000 | 172.16.13.60 | 76
+MonitorActionLog |2023-05-25 | 15:49:32 |  0971651512 | 1 | 3109 | GET_HOME_OBJECT | 968327cbecee447caa12b657da50ce25 | Android | Th�nh c�ng | 0000 | 172.16.13.60 | 84
+MonitorActionLog |2023-05-25 | 15:49:32 |  0971651512 | 1 | 3109 | GET_NEW_PROMOTION_NUMBER | 84bf4e428881433db41a4a0e04596465 | Android | Successful | 0000 | 172.16.13.60 | 48
+MonitorActionLog |2023-05-25 | 15:49:34 |  0971651512 | 1 | 3109 | GET_LIST_NOTIFY | b130d3718d834d6f9f85cb27c7ed7121 | Android | Successful | 0000 | 172.16.13.60 | 197
+MonitorActionLog |2023-05-25 | 15:49:34 |  0971651512 | 1 | 3109 | GET_NOTIFICATION_FILTER | fce594519c954f1caffe42f2a4c62caf | Android | Successful | 0000 | 172.16.13.60 | 61
+MonitorActionLog |2023-05-25 | 15:49:34 |  0971651512 | 1 | 3109 | GET_LIST_NOTIFY | a527146db1944e41951f2e892aa05465 | Android | Successful | 0000 | 172.16.13.60 | 205
+MonitorActionLog |2023-05-25 | 15:49:36 |  0971651512 | 1 | 3109 | GET_LIST_NOTIFY | 203c0ec9d84a42888e679c5b8f9da610 | Android | Successful | 0000 | 172.16.13.60 | 233
+MonitorActionLog |2023-05-25 | 15:49:36 |  0971651512 | 1 | 3109 | SAVE_NOTIFY | 55b66c2d3a034c3b969b6a68de3204c4 | Android | Successful | 0000 | 172.16.13.60 | 61
+MonitorActionLog |2023-05-25 | 15:49:37 |  0971651512 | 1 | 3109 | GET_USER_INFO_NEW | 7a0ad7505de04508a6e666136495807b | Android | Successful | 0000 | 172.16.13.60 | 117
+MonitorActionLog |2023-05-25 | 15:49:46 |  0971651512 | 1 | 3109 | GET_BALANCES | 568c010b4ad94b3aa123fc17e339a7e7 | Android | Successful | 0000 | 172.16.13.60 | 76
+MonitorActionLog |2023-05-25 | 15:49:46 |  0971651512 | 1 | 3109 | GET_REMINDER | 5ac95dc3a3544220a3f08be92fafffe4 | Android | Successful | 0000 | 172.16.13.60 | 64
+MonitorActionLog |2023-05-25 | 15:49:46 |  0971651512 | 1 | 3109 | GET_BANNER_LIST | 563de27e09694617a190e15f15d28f15 | Android | Successful | 0000 | 172.16.13.60 | 70
+MonitorActionLog |2023-05-25 | 15:49:46 |  0971651512 | 1 | 3109 | GET_HOME_OBJECT | 72c878efdebf4fbe808f08cdca0158fb | Android | Th�nh c�ng | 0000 | 172.16.13.60 | 114
+MonitorActionLog |2023-05-25 | 15:49:46 |  0971651512 | 1 | 3109 | GET_NEW_PROMOTION_NUMBER | aca3793b64904ac1a679815493f9c841 | Android | Successful | 0000 | 172.16.13.60 | 50
+MonitorActionLog |2023-05-25 | 15:49:47 |  0971651512 | 1 | 3109 | GET_LIST_NOTIFY | c10ed71ab4064762a514a28b60b173f2 | Android | Successful | 0000 | 172.16.13.60 | 196
+MonitorActionLog |2023-05-25 | 15:49:47 |  0971651512 | 1 | 3109 | GET_NOTIFICATION_FILTER | db8dc7d6f8ef4eb099884b83769a38f7 | Android | Successful | 0000 | 172.16.13.60 | 57
+MonitorActionLog |2023-05-25 | 15:49:48 |  0971651512 | 1 | 3109 | GET_LIST_NOTIFY | 8c8b3347024b488a9297495419c8040d | Android | Successful | 0000 | 172.16.13.60 | 223
+MonitorActionLog |2023-05-25 | 15:49:53 |  0971651512 | 1 | 3109 | SAVE_NOTIFY | 86a7e0c304774fae87a4523bf3c0f83a | Android | Successful | 0000 | 172.16.13.60 | 62
+MonitorActionLog |2023-05-25 | 15:49:53 |  0971651512 | 1 | 3109 | DETAIL_TRANSACTION | bd16461ba3694b63b862beb0079f7357 | Android | null | 0000 | 172.16.13.60 | 91
+MonitorActionLog |2023-05-25 | 15:49:56 |  0971651512 | 1 | 3109 | GET_BALANCES | 9e186bff7c0d4a6f96bb9bba95dfbd0b | Android | Successful | 0000 | 172.16.13.60 | 72
+MonitorActionLog |2023-05-25 | 15:49:57 |  0971651512 | 1 | 3109 | GET_REMINDER | b64342afaaa94ebb8a555750b6f22cf6 | Android | Successful | 0000 | 172.16.13.60 | 73
+MonitorActionLog |2023-05-25 | 15:49:57 |  0971651512 | 1 | 3109 | GET_BANNER_LIST | 2525798a5de54cf8bb8dc0ebbc4f16f7 | Android | Successful | 0000 | 172.16.13.60 | 63
+MonitorActionLog |2023-05-25 | 15:49:57 |  0971651512 | 1 | 3109 | GET_HOME_OBJECT | 8157d85d369e4e4ca2a0a85f4cddaff0 | Android | Th�nh c�ng | 0000 | 172.16.13.60 | 86
+MonitorActionLog |2023-05-25 | 15:49:57 |  0971651512 | 1 | 3109 | GET_NEW_PROMOTION_NUMBER | b20625ee2ec345dbbc554803475bdb78 | Android | Successful | 0000 | 172.16.13.60 | 47
+MonitorActionLog |2023-05-25 | 15:49:59 |  0971651512 | 1 | 3109 | GET_BALANCES | 15d2ad6061b74c8ba35634889045aba6 | Android | Successful | 0000 | 172.16.13.60 | 82
+MonitorActionLog |2023-05-25 | 15:49:59 |  0971651512 | 1 | 3109 | GET_USER_INFO | 5881428e4f28427ebed8779515818117 | Android | Successful | 0000 | 172.16.13.60 | 93
+MonitorActionLog |2023-05-25 | 15:50:25 |  0971651512 | 1 | 3109 | EKYC_ANALYTICS | f9ffa3317f80486aa5bb652adffbabe5 | Android | Phone number is invalid, Please try again | 7301 | 172.16.13.60 | 65
+MonitorActionLog |2023-05-25 | 15:50:33 |  0971651512 | 1 | 3109 | EKYC_ANALYTICS | d34c9368541b4036ae16d865800d55b2 | Android | Phone number is invalid, Please try again | 7301 | 172.16.13.60 | 70
+MonitorActionLog |2023-05-25 | 15:50:47 |  0971651512 | 1 | 3109 | EKYC_ANALYTICS | fce7bebec555408cbdf3524d4e737e1a | Android | Phone number is invalid, Please try again | 7301 | 172.16.13.60 | 71
+MonitorActionLog |2023-05-25 | 15:50:48 |  0971651512 | 1 | 3109 | EKYC_ANALYTICS | 11e37802dbae44429a3e119ac1893952 | Android | Phone number is invalid, Please try again | 7301 | 172.16.13.60 | 67
+MonitorActionLog |2023-05-25 | 15:50:53 |  0971651512 | 1 | 3109 | EKYC_VERIFY | 3d37b2ff244f44e086d75430d098fd91 | Android | Information on document and employee information does not match | 7323 | 172.16.13.60 | 162
+MonitorActionLog |2023-05-25 | 15:51:02 |  0971651512 | 1 | 3109 | EKYC_VERIFY | 92d6e184e8d14dd6b41b6e6c7856acd4 | Android | Information on document and employee information does not match | 7323 | 172.16.13.60 | 151
+MonitorActionLog |2023-05-25 | 15:52:09 |  0971651512 | 1 | 3109 | GET_USER_INFO | c128285e56f540b8bc0f3bb592505fa5 | Android | Successful | 0000 | 172.16.13.60 | 73
+MonitorActionLog |2023-05-25 | 15:52:09 |  0971651512 | 1 | 3109 | GET_BALANCES | f974e5f2787e4e16aaea4a509afaa9a3 | Android | Successful | 0000 | 172.16.13.60 | 67
+MonitorActionLog |2023-05-25 | 15:52:13 |  0971651512 | 1 | 3109 | GET_BALANCES | b149b1bf839545a7949cef40c976fda3 | Android | Successful | 0000 | 172.16.13.60 | 78
+MonitorActionLog |2023-05-25 | 15:52:13 |  0971651512 | 1 | 3109 | GET_BANNER_LIST | ee43425fc0244143a9d822ed32bcbb6e | Android | Successful | 0000 | 172.16.13.60 | 69
+MonitorActionLog |2023-05-25 | 15:52:13 |  0971651512 | 1 | 3109 | GET_REMINDER | 9c282dc99a534b2b8f4c567715094ad4 | Android | Successful | 0000 | 172.16.13.60 | 71
+MonitorActionLog |2023-05-25 | 15:52:14 |  0971651512 | 1 | 3109 | GET_HOME_OBJECT | 2cbc99704fe6481dadf2b9ac9ab5d354 | Android | Th�nh c�ng | 0000 | 172.16.13.60 | 82
+MonitorActionLog |2023-05-25 | 15:52:14 |  0971651512 | 1 | 3109 | GET_NEW_PROMOTION_NUMBER | 99f3df6bb2094dfb94c80b9fff2b33ec | Android | Successful | 0000 | 172.16.13.60 | 41
+MonitorActionLog |2023-05-25 | 15:52:17 |  0971651512 | 1 | 3109 | GET_USER_INFO_NEW | 820002372e9441f7b3e4e3105971ad83 | Android | Successful | 0000 | 172.16.13.60 | 98
+MonitorActionLog |2023-05-25 | 19:08:17 |  null | null | null | GET_SECRET_KEY | F0CD453B-201F-4C49-A34C-A653380D0CD7 | IOS | SUCCESS | 0000 | 172.16.13.104 | 340
+MonitorActionLog |2023-05-25 | 19:08:18 |  null | null | null | GET_VERSIONS | 483D5463-914D-48D2-BD7F-8E6066D7C690 | IOS | Th�nh c�ng | 0000 | 172.16.13.104 | 57
+MonitorActionLog |2023-05-25 | 19:08:18 |  null | null | null | PHONE_CHECK | BDB43B65-3499-4F81-B0CC-085144505AB6 | IOS | Th�nh c�ng | 0000 | 172.16.13.104 | 91
+MonitorActionLog |2023-05-25 | 19:08:22 |  null | null | null | LOGIN | 1AAA9B88-8EC8-4300-ADEE-0C5C621D4474 | IOS | Sai m?t kh?u | 7307 | 172.16.13.104 | 220
+MonitorActionLog |2023-05-25 | 19:08:27 |  null | null | null | PHONE_CHECK | 44940308-162A-4881-930A-E674F279CB93 | IOS | Th�nh c�ng | 0000 | 172.16.13.104 | 90
+MonitorActionLog |2023-05-25 | 19:08:30 |  null | null | null | LOGIN | 2FDBFCF7-BD32-4796-AD6D-F280514CB4FD | IOS | ??ng nh?p tr�n thi?t b? m?i | 7310 | 172.16.13.104 | 251
+MonitorActionLog |2023-05-25 | 19:08:33 |  null | null | null | OTP_VERIFY | 8D0A5A04-66B1-4D8E-9DAB-C28F558C23E0 | IOS | X�c th?c OTP th�nh c�ng | 0000 | 172.16.13.104 | 132
+MonitorActionLog |2023-05-25 | 19:08:39 |  0971651512 | 1 | 3109 | GET_BALANCES | 91B52C9C-7792-43ED-B466-390816597440 | IOS | null | null | 172.16.13.104 | 11789892
