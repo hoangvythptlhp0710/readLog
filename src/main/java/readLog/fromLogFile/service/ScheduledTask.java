@@ -1,14 +1,13 @@
 package readLog.fromLogFile.service;
 
-import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;
 
 @Component
 public class ScheduledTask {
 
-    private final PushLogToMongoDB mongoDbService;
+    private final MongoService mongoDbService;
 
-    public ScheduledTask(PushLogToMongoDB mongoDbService) {
+    public ScheduledTask(MongoService mongoDbService) {
         this.mongoDbService = mongoDbService;
     }
 

@@ -11,12 +11,12 @@ import java.util.List;
 @Service
 public class GetUserInformation {
 
-    private final PushLogToMongoDB pushLogToMongoDB;
+    private final MongoService pushLogToMongoDB;
 
     @Autowired
     private IUser iUser;
 
-    public GetUserInformation(PushLogToMongoDB pushLogToMongoDB) {
+    public GetUserInformation(MongoService pushLogToMongoDB) {
         this.pushLogToMongoDB = pushLogToMongoDB;
     }
 
@@ -24,8 +24,8 @@ public class GetUserInformation {
         return iUser.getUserInformation();
     }
 
-    public List<Long> test() {
-        return iUser.test();
+    public UserInformation getUserInformationByUserId(long userId) {
+        return iUser.getUserInformationByUserId(userId);
     }
 
 }

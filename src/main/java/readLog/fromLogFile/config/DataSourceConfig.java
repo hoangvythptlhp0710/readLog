@@ -20,11 +20,11 @@ public class DataSourceConfig {
         return DataSourceBuilder.create().build();
     }
 
-    @Bean
-    @ConfigurationProperties(prefix="spring.datasource.two")
-    DataSource dsTwo(){
-        return DataSourceBuilder.create().build();
-    }
+//    @Bean
+//    @ConfigurationProperties(prefix="spring.datasource.two")
+//    DataSource dsTwo(){
+//        return DataSourceBuilder.create().build();
+//    }
 
     /*
      * @Bean
@@ -46,10 +46,10 @@ public class DataSourceConfig {
         return dstm;
     }
 
-    @Bean
-    @Autowired
-    DataSourceTransactionManager db2Tm(@Qualifier("dsTwo") DataSource dataSource) {
-        DataSourceTransactionManager dstm = new DataSourceTransactionManager(dataSource);
-        return dstm;
-    }
+//    @Bean
+//    @Autowired
+//    DataSourceTransactionManager db2Tm(@Qualifier("dsTwo") DataSource dataSource) {
+//        DataSourceTransactionManager dstm = new DataSourceTransactionManager(dataSource);
+//        return dstm;
+//    }
 }

@@ -1,21 +1,19 @@
 package readLog.fromLogFile.dto.response;
 
-import lombok.*;
-
-import java.util.Date;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
 
 @Data
 @Builder
-@Getter
-@Setter
 @AllArgsConstructor
 @NoArgsConstructor
-public class CountByDay {
-    private Date date;
+
+public class UserInformationResponse {
     private Long userId;
-    private String userName;
+    private String username;
     private String phoneNumber;
     private Long companyId;
     private String companyName;
-    private Integer count;
 }

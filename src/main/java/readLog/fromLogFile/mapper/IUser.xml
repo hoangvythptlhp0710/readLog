@@ -4,18 +4,20 @@
 <mapper namespace="readLog.fromLogFile.mapper.IUser">
 
     <resultMap type="readLog.fromLogFile.model.UserInformation" id="UserInformation">
-        <result property="companyId" column="COMPANY_ID"></result>
-        <result property="companyName" column="COMPANY_NAME"></result>
         <result property="userId" column="USER_ID"></result>
         <result property="username" column="NAME"></result>
+        <result property="companyId" column="COMPANY_ID"></result>
+        <result property="companyName" column="COMPANY_NAME"></result>
     </resultMap>
 <!--DBeaver-->
-    <select id="getUserInformation" resultMap="UserInformation">
-        SELECT c.ID AS COMPANY_ID, c.NAME AS COMPANY_NAME, u.ID AS USER_ID, u.NAME AS NAME
-        FROM TBL_USERS u  JOIN TBL_COMPANIES c ON u.COMPANY_ID = c.ID
-    </select>
+<!--    <select id="getUserInformation" resultType="readLog.fromLogFile.model.UserInformation" resultMap="UserInformation">-->
+<!--        SELECT u.ID AS USER_ID, u.NAME AS NAME, c.ID AS COMPANY_ID, c.NAME AS COMPANY_NAME-->
+<!--        FROM TBL_USERS u JOIN TBL_COMPANIES c ON u.COMPANY_ID = c.ID-->
+<!--    </select>-->
 
-    <select id="test" resultType="long">
-        SELECT company_id FROM TBL_COMPANIES
-    </select>
+<!--    <select id="getUserInformationByUserId" parameterType="long"  resultMap="UserInformation">-->
+<!--        SELECT u.ID AS USER_ID, u.NAME AS NAME, c.ID AS COMPANY_ID, c.NAME AS COMPANY_NAME-->
+<!--        FROM TBL_USERS u JOIN TBL_COMPANIES c ON u.COMPANY_ID = c.ID WHERE u.id = #{userId}-->
+<!--    </select>-->
+
 </mapper>

@@ -2,9 +2,13 @@ package readLog.fromLogFile.service;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
+import readLog.fromLogFile.dto.response.CountByDay;
+import readLog.fromLogFile.mapper.IUser;
 import readLog.fromLogFile.model.Log;
+import readLog.fromLogFile.model.UserInformation;
 import readLog.fromLogFile.repository.MongoDBRepository;
 
 import java.io.BufferedReader;
@@ -14,17 +18,20 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
+import java.util.List;
 
 @Service
-public class PushLogToMongoDB {
+public class MongoService {
 
+    @Autowired
+    private IUser iUser;
     private final MongoDBRepository mongoDBRepository;
 
-    public PushLogToMongoDB(MongoDBRepository mongoDBRepository) {
+    public MongoService(MongoDBRepository mongoDBRepository) {
         this.mongoDBRepository = mongoDBRepository;
     }
 
-    private static final Logger logger = LoggerFactory.getLogger(PushLogToMongoDB.class);
+    private static final Logger logger = LoggerFactory.getLogger(MongoService.class);
     @Value("${file.path}")
     private String filePath;
 
@@ -51,17 +58,17 @@ public class PushLogToMongoDB {
                 if (phoneNumber.trim().equals("null")) {
                     log.setPhoneNumber(null);
                 } else {
-                    log.setPhoneNumber(Integer.parseInt(phoneNumber.trim()));
+                    log.setPhoneNumber(phoneNumber.trim());
                 }
                 if (companyId.trim().equals("null")) {
                     log.setCompanyId(null);
                 } else {
-                    log.setCompanyId(Integer.parseInt(companyId.trim()));
+                    log.setCompanyId(Long.parseLong(companyId.trim()));
                 }
                 if (userId.trim().equals("null")) {
                     log.setUserId(null);
                 } else {
-                    log.setUserId(Integer.parseInt(userId.trim()));
+                    log.setUserId(Long.parseLong(userId.trim()));
 
                 }
                 log.setService(service.trim());
@@ -94,6 +101,19 @@ public class PushLogToMongoDB {
         return calendar.getTime();
     }
 
+
+    public void pushUserToMongoDb() {
+        List<UserInformation> userInformations = iUser.getUserInformation();
+        for (UserInformation userInformation: userInformations) {
+            if (!userAlreadyExists(userInformation)) {
+                mongoDBRepository.saveUserInformation(userInformation);
+                logger.info("Pushed user information to MongoDB");
+            }
+            logger.info("User already exists in DB");
+        }
+    }
+
+
     // check if log exists
     private boolean logAlreadyExists(Log log) {
         return mongoDBRepository.existsLog(
@@ -104,6 +124,20 @@ public class PushLogToMongoDB {
                 log.getService(),
                 log.getRequestId()
         );
+    }
+
+    private boolean userAlreadyExists(UserInformation userInformation) {
+        return mongoDBRepository.existsUserInformation(
+                userInformation.getUserId(),
+                userInformation.getUsername(),
+                userInformation.getPhoneNumber(),
+                userInformation.getCompanyId(),
+                userInformation.getCompanyName()
+        );
+    }
+
+    public List<CountByDay> countByDay() {
+        return mongoDBRepository.countTheLogin();
     }
 
 

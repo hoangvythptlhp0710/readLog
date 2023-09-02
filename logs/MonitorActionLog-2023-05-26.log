@@ -828,3 +828,21 @@ MonitorActionLog |2023-05-25 | 19:08:27 |  null | null | null | PHONE_CHECK | 44
 MonitorActionLog |2023-05-25 | 19:08:30 |  null | null | null | LOGIN | 2FDBFCF7-BD32-4796-AD6D-F280514CB4FD | IOS | ??ng nh?p tr�n thi?t b? m?i | 7310 | 172.16.13.104 | 251
 MonitorActionLog |2023-05-25 | 19:08:33 |  null | null | null | OTP_VERIFY | 8D0A5A04-66B1-4D8E-9DAB-C28F558C23E0 | IOS | X�c th?c OTP th�nh c�ng | 0000 | 172.16.13.104 | 132
 MonitorActionLog |2023-05-25 | 19:08:39 |  0971651512 | 1 | 3109 | GET_BALANCES | 91B52C9C-7792-43ED-B466-390816597440 | IOS | null | null | 172.16.13.104 | 11789892
+MonitorActionLog |2023-05-25 | 19:08:40 |  0982941149 | 3 | 3095 | LOGIN | 188ce5c05a334eeca6534f30d48b0726 | Android | Successful | 0000 | 10.0.2.15 | 263
+MonitorActionLog |2023-05-25 | 19:08:41 |  0982941149 | 3 | 3095 | LOGIN | 188ce5c05a334eeca6534f30d48b0726 | Android | Successful | 0000 | 10.0.2.15 | 263
+MonitorActionLog |2023-05-25 | 19:08:42 |  0982941149 | 3 | 3095 | LOGIN | 188ce5c05a334eeca6534f30d48b0726 | Android | Successful | 0000 | 10.0.2.15 | 263
+MonitorActionLog |2023-05-25 | 19:08:43 |  0982941149 | 3 | 3095 | LOGIN | 188ce5c05a334eeca6534f30d48b0726 | Android | Successful | 0000 | 10.0.2.15 | 263
+MonitorActionLog |2023-05-25 | 19:08:44 |  0982941149 | 3 | 3095 | LOGIN | 188ce5c05a334eeca6534f30d48b0726 | Android | Successful | 0000 | 10.0.2.15 | 263
+MonitorActionLog |2023-05-25 | 19:08:45 |  0982941149 | 3 | 3095 | LOGIN | 188ce5c05a334eeca6534f30d48b0726 | Android | Successful | 0000 | 10.0.2.15 | 263
+MonitorActionLog |2023-05-25 | 19:08:46 |  0982941149 | 3 | 3095 | LOGIN | 188ce5c05a334eeca6534f30d48b0726 | Android | Successful | 0000 | 10.0.2.15 | 263
+MonitorActionLog |2023-05-25 | 19:08:47 |  0982941149 | 3 | 3095 | LOGIN | 188ce5c05a334eeca6534f30d48b0726 | Android | Successful | 0000 | 10.0.2.15 | 263
+MonitorActionLog |2023-05-25 | 19:08:48 |  0914261181 | 3 | 1876 | LOGIN | 188ce5c05a334eeca6534f30d48b0726 | Android | Successful | 0000 | 10.0.2.15 | 263
+MonitorActionLog |2023-05-25 | 19:08:49 |  0914261181 | 3 | 1876 | LOGIN | 188ce5c05a334eeca6534f30d48b0726 | Android | Successful | 0000 | 10.0.2.15 | 263
+MonitorActionLog |2023-05-25 | 19:08:50 |  0914261181 | 3 | 1876 | LOGIN | 188ce5c05a334eeca6534f30d48b0726 | Android | Successful | 0000 | 10.0.2.15 | 263
+MonitorActionLog |2023-05-25 | 19:08:51 |  0914261181 | 3 | 1876 | LOGIN | 188ce5c05a334eeca6534f30d48b0726 | Android | Successful | 0000 | 10.0.2.15 | 263
+MonitorActionLog |2023-05-25 | 19:08:52 |  0365502241 | 3 | 2453 | LOGIN | 188ce5c05a334eeca6534f30d48b0726 | Android | Successful | 0000 | 10.0.2.15 | 263
+MonitorActionLog |2023-05-25 | 19:08:53 |  0365502241 | 3 | 2453 | LOGIN | 188ce5c05a334eeca6534f30d48b0726 | Android | Successful | 0000 | 10.0.2.15 | 263
+MonitorActionLog |2023-05-25 | 19:08:54 |  0365502241 | 3 | 2453 | LOGIN | 188ce5c05a334eeca6534f30d48b0726 | Android | Successful | 0000 | 10.0.2.15 | 263
+MonitorActionLog |2023-05-25 | 19:08:55 |  0365502241 | 3 | 2453 | LOGIN | 188ce5c05a334eeca6534f30d48b0726 | Android | Successful | 0000 | 10.0.2.15 | 263
+MonitorActionLog |2023-05-25 | 19:08:56 |  0365502241 | 3 | 2453 | LOGIN | 188ce5c05a334eeca6534f30d48b0726 | Android | Successful | 0000 | 10.0.2.15 | 263
+

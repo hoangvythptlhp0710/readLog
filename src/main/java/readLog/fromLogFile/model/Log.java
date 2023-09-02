@@ -9,7 +9,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 import java.sql.Time;
 import java.util.Date;
 
-@Document(collection = "logs")
+@Document(collection = "logs-by-company")
 @Getter
 @Setter
 @AllArgsConstructor
@@ -17,9 +17,9 @@ import java.util.Date;
 public class Log {
 
     private Date dateTime;
-    private Integer phoneNumber;
-    private Integer companyId;
-    private Integer userId;
+    private String phoneNumber;
+    private Long companyId;
+    private Long userId;
     private String service;
     private String requestId;
 
